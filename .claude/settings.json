@@ -1,4 +1,16 @@
 {
+  "permissions": {
+    "allow": [
+      "mcp__tavily-search__tavily_search",
+      "mcp__tavily-search__tavily_extract",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_snapshot",
+      "mcp__playwright__browser_click",
+      "Write(knowledge/**)",
+      "Write(state/**)",
+      "Edit(knowledge/**)"
+    ]
+  },
   "hooks": {
     "PreToolUse": [
       {

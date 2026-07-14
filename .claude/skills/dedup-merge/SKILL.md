@@ -15,6 +15,8 @@ Check in this order, stop at the first match:
    discover them, e.g.:
    - `acos` / `advertising-cost-of-sale` / `ad-cost-of-sale` -> `metrics/acos`
    - `sp` / `sponsored-products` -> `ad-products/sponsored-products`
+   Canonical top-level directories: ad-products/, apis/, metrics/, glossary/.
+   Never use api/ (singular) — always apis/.
    If `concept_guess` matches an alias, use the canonical ID.
 3. **Title/keyword overlap** — if `concept_guess` shares its main noun
    phrase with an existing concept's `title` or `tags` (e.g. "Sponsored
