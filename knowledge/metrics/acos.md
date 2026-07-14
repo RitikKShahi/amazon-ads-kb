@@ -50,6 +50,29 @@ There is no single definitive number for what constitutes a good ACOS — target
 
 The **break-even ACOS** is directly related to profit margins. To maintain profit, ACOS must be lower than the profit margin. If ACOS is higher than profit margin, you're spending more on ads than you earn. The first step should be achieving break-even ACOS and comparing it with profit margins.
 
+## Industry Benchmarks
+
+Based on Amazon advertising performance data, typical ACOS benchmarks vary by product category and competitive landscape:
+
+- **15-30% ACOS range**: Common benchmark for established products
+- **New product launches**: Often experience higher ACOS initially (30-50%+)
+- **Mature products**: Well-optimized campaigns may achieve sub-15% ACOS
+- **Competitive categories**: Premium keywords may drive ACOS above 30%
+
+These benchmarks serve as general reference points rather than rigid targets, as individual business margins and growth priorities should guide specific ACOS goals.
+
+## ACOS Optimization Strategies
+
+Systematic optimization efforts can significantly reduce ACOS while maintaining or improving sales performance:
+
+- **20-35% ACOS reduction potential**: Proven optimization approaches can achieve substantial improvements
+- **Keyword refinement**: Eliminating underperforming keywords and focusing on high-converting terms
+- **Bid optimization**: Adjusting bids based on performance data and profitability targets
+- **Match type strategy**: Using EXACT and PHRASE match for better control
+- **Negative keywords**: Systematically adding non-converting search terms as negative keywords
+
+Successful optimization requires continuous monitoring and adjustment based on performance data, market conditions, and business objectives.
+
 ## Usage Considerations
 
 ACOS should not be the only campaign metric to focus on — it's one facet of advertising campaigns and doesn't account for variables between different campaigns. It should be considered alongside other metrics including:
