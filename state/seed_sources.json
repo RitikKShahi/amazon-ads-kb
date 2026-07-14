@@ -1,0 +1,52 @@
+{
+  "_comment": "Seed list for the first run. Discover uses these directly instead of searching, so you can build/debug Extract->Validate->Merge->Publish before wiring live search. Add/remove freely.",
+  "sources": [
+    {
+      "url": "https://advertising.amazon.com/about-api",
+      "type": "official_doc",
+      "official": true,
+      "note": "Overview of Amazon Ads API - what it's for, access process"
+    },
+    {
+      "url": "https://advertising.amazon.com/API/docs/en-us/guides/get-started/overview",
+      "type": "official_doc",
+      "official": true,
+      "note": "API getting-started guide - auth, profiles, basic concepts"
+    },
+    {
+      "url": "https://advertising.amazon.com/API/docs/en-us/guides/onboarding/overview",
+      "type": "official_doc",
+      "official": true,
+      "note": "Onboarding / access application process"
+    },
+    {
+      "url": "https://advertising.amazon.com/API/docs/en-us/reference/api-overview",
+      "type": "official_doc",
+      "official": true,
+      "note": "API reference overview - endpoints, structure"
+    },
+    {
+      "url": "https://github.com/amzn/ads-advanced-tools-docs",
+      "type": "github_repo",
+      "official": true,
+      "note": "Official code samples repo README - concepts explained alongside code"
+    },
+    {
+      "url": "https://github.com/denisneuf/python-amazon-ad-api",
+      "type": "github_repo",
+      "official": false,
+      "note": "Unofficial Python SDK README - explains profiles, campaigns, credentials in plain terms"
+    },
+    {
+      "url": "https://github.com/ScaleLeap/amazon-advertising-api-sdk",
+      "type": "github_repo",
+      "official": false,
+      "note": "Unofficial TS/Node SDK README - operation-based explanation of the API"
+    }
+  ],
+  "search_queries_for_blog_type": [
+    "Amazon PPC ACOS vs TACOS explained",
+    "Sponsored Products vs Sponsored Brands vs Sponsored Display",
+    "Amazon Ads campaign structure best practices"
+  ]
+}
