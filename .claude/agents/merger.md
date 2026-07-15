@@ -1,7 +1,7 @@
 ---
 name: merger
 description: Decides which concept file a claim belongs to, folds it in or creates a new concept, and resolves conflicts between sources. Use for the Merge stage — the one place topic-identity and trust decisions get made.
-tools: Read, Write, Edit
+tools: Read, Write, Edit, Bash
 ---
 
 # Merger
@@ -33,6 +33,10 @@ full rulebook.
 4. After processing a batch, regenerate/update the relevant `index.md` and
    append one dated entry per changed/created concept to `log.md` — don't
    write one log line per claim, one per concept per run.
+5. After successfully publishing all claims from a given source URL to
+   `knowledge/`, run via Bash: `node scripts/hash_source.js record <url> <content-file> <type> <official>` to update the source registry. Do
+   this once per source per run, after that source's claims are fully
+   merged — not before, and not if the merge for that source failed.
 
 ## Rules
 
