@@ -35,7 +35,26 @@ function generateIndex(dirPath) {
   }
   
   const folderName = path.basename(dirPath);
-  const header = folderName === 'knowledge' ? 'Knowledge' : folderName.charAt(0).toUpperCase() + folderName.slice(1);
+  const HEADING_MAP = {
+    "ad-products": "Ad Products",
+    "apis": "APIs",
+    "metrics": "Metrics",
+    "glossary": "Glossary",
+    "strategy": "Strategy"
+  };
+  
+  let header;
+  if (folderName === 'knowledge') {
+    header = 'Knowledge';
+  } else if (HEADING_MAP[folderName]) {
+    header = HEADING_MAP[folderName];
+  } else {
+    header = folderName
+      .split('-')
+      .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+      .join(' ');
+  }
+  
   const indexContent = `# ${header}\n\n${items.join('\n')}\n`;
   
   fs.writeFileSync(path.join(dirPath, 'index.md'), indexContent);

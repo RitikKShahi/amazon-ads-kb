@@ -16,6 +16,8 @@
  */
 
 const fs = require("fs");
+const path = require("path");
+const { ALLOWED_TOP_LEVEL_DIRS } = require("./taxonomy.js");
 
 function readStdin() {
   try {
@@ -80,6 +82,17 @@ function main() {
 
   if (!isKnowledgeFile || !filePath.endsWith(".md")) process.exit(0);
   if (isReserved) process.exit(0); // index/log have their own conventions, skip frontmatter check
+
+  // Taxonomy enforcement
+  // Replace backslashes just in case we are on Windows, to make regex simple
+  const normalizedPath = filePath.replace(/\\/g, "/");
+  const knowledgeMatch = normalizedPath.match(/\/knowledge\/([^\/]+)/) || normalizedPath.match(/^knowledge\/([^\/]+)/);
+  if (knowledgeMatch) {
+    const topLevelDir = knowledgeMatch[1];
+    if (!ALLOWED_TOP_LEVEL_DIRS.includes(topLevelDir)) {
+      fail(`${filePath} is under '${topLevelDir}/' which isn't an allowed top-level directory. Allowed: ${ALLOWED_TOP_LEVEL_DIRS.join(", ")}.`);
+    }
+  }
 
   if (!content) process.exit(0); // nothing to validate yet (e.g. a Read-then-Edit flow)
 

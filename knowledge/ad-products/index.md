@@ -1,4 +1,4 @@
-# Ad-products
+# Ad Products
 
 - [Sponsored Brands](/ad-products/sponsored-brands.md) — Amazon advertising format that promotes brand messaging and multiple products, appearing in prominent shopping results placements.
 - [Sponsored Products Keyword Targeting](/ad-products/sponsored-products-keyword-targeting.md) — Keyword-based targeting for Sponsored Products campaigns allowing advertisers to reach shoppers based on search terms.

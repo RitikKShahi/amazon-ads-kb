@@ -5,7 +5,8 @@
   "description": "Autonomous knowledge acquisition system for Amazon Ads — OKF v0.1 bundle",
   "scripts": {
     "test": "node --test 'tests/*.test.js'",
-    "prefetch": "node scripts/prefetch_static_sources.js"
+    "prefetch": "node scripts/prefetch_static_sources.js",
+    "verify-taxonomy": "node scripts/verify_taxonomy.js"
   },
   "engines": {
     "node": ">=20.0.0"

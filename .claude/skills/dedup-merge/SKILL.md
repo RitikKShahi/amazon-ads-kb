@@ -30,6 +30,16 @@ Check in this order, stop at the first match:
 Document any alias you add and why, in your final run summary — this is
 exactly the kind of judgment call the design doc should call out.
 
+## Canonical top-level directories
+Use exactly these five, nothing else: ad-products/, apis/,
+metrics/, glossary/, strategy/. Files are flat within each
+directory (hyphenated names, e.g.
+sponsored-products-match-types.md), not nested subdirectories.
+If a claim doesn't obviously fit one of these five, default to the
+closest fit and flag it in your run summary rather than inventing
+a new top-level directory - writes outside this allowlist will be
+rejected by the pre-write hook.
+
 ## Trust order when sources conflict
 
 1. Official (`advertising.amazon.com`, official `amzn/*` GitHub repos) beats

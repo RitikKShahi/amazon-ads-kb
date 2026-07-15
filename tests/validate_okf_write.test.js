@@ -106,14 +106,33 @@ describe("validate_okf_write.js", () => {
   });
 
   it("allows when content is empty (e.g. Read-then-Edit flow)", () => {
-    const res = run(writePayload("/repo/knowledge/test.md", ""));
+    const res = run(writePayload("/repo/knowledge/apis/test.md", ""));
     assert.equal(res.status, 0);
+  });
+
+  // ----- Taxonomy enforcement -----
+
+  it("allows writes under allowed top-level directories", () => {
+    const allowed = ["ad-products", "apis", "metrics", "glossary", "strategy"];
+    for (const dir of allowed) {
+      const res = run(writePayload(`/repo/knowledge/${dir}/test.md`, VALID_CONTENT));
+      assert.equal(res.status, 0, `Failed for ${dir}`);
+    }
+  });
+
+  it("blocks writes under disallowed top-level directories", () => {
+    const disallowed = ["api", "sponsored-products", "advertising"];
+    for (const dir of disallowed) {
+      const res = run(writePayload(`/repo/knowledge/${dir}/test.md`, VALID_CONTENT));
+      assert.equal(res.status, 2, `Should block ${dir}`);
+      assert.match(res.stderr, new RegExp(`is under '${dir}/' which isn't an allowed top-level directory`));
+    }
   });
 
   // ----- Block cases -----
 
   it("blocks knowledge .md with no frontmatter", () => {
-    const res = run(writePayload("/repo/knowledge/test.md", "# No frontmatter\n\n# Citations\n"));
+    const res = run(writePayload("/repo/knowledge/apis/test.md", "# No frontmatter\n\n# Citations\n"));
     assert.equal(res.status, 2);
     assert.match(res.stderr, /no YAML frontmatter/i);
   });
@@ -128,7 +147,7 @@ timestamp: 2026-07-14
 
 # Citations
 `;
-    const res = run(writePayload("/repo/knowledge/test.md", content));
+    const res = run(writePayload("/repo/knowledge/apis/test.md", content));
     assert.equal(res.status, 2);
     assert.match(res.stderr, /missing.*type/i);
   });
@@ -143,7 +162,7 @@ timestamp: 2026-07-14
 
 # Citations
 `;
-    const res = run(writePayload("/repo/knowledge/test.md", content));
+    const res = run(writePayload("/repo/knowledge/apis/test.md", content));
     assert.equal(res.status, 2);
     assert.match(res.stderr, /missing.*title/i);
   });
@@ -158,7 +177,7 @@ title: Test
 
 # Citations
 `;
-    const res = run(writePayload("/repo/knowledge/test.md", content));
+    const res = run(writePayload("/repo/knowledge/apis/test.md", content));
     assert.equal(res.status, 2);
     assert.match(res.stderr, /missing.*timestamp/i);
   });
@@ -174,7 +193,7 @@ timestamp: July 14th
 
 # Citations
 `;
-    const res = run(writePayload("/repo/knowledge/test.md", content));
+    const res = run(writePayload("/repo/knowledge/apis/test.md", content));
     assert.equal(res.status, 2);
     assert.match(res.stderr, /ISO 8601/i);
   });
@@ -190,7 +209,7 @@ timestamp: 2026-07-14
 
 No citations section here.
 `;
-    const res = run(writePayload("/repo/knowledge/test.md", content));
+    const res = run(writePayload("/repo/knowledge/apis/test.md", content));
     assert.equal(res.status, 2);
     assert.match(res.stderr, /Citations/i);
   });
@@ -236,7 +255,7 @@ No citations section here.
       hook_event_name: "PreToolUse",
       tool_name: "Edit",
       tool_input: {
-        file_path: "/repo/knowledge/test.md",
+        file_path: "/repo/knowledge/apis/test.md",
         old_string: "old",
         new_string: "# No frontmatter here\n",
       },

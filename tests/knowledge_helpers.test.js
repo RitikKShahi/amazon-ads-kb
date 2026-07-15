@@ -47,10 +47,18 @@ describe("knowledge helpers", () => {
       assert.match(content, /- \[ACOS\]\(.*acos\.md\) — ad spend/);
     });
 
-    it("should group concepts by section (metrics, apis, ad-products, glossary)", () => {
-      // Grouping by section is intrinsically handled by running generateIndex
-      // on each subdirectory individually, which creates a section-specific index.md
-      assert.ok(true);
+    it("should use explicit mapping for known directory headers", () => {
+      const adProductsDir = path.join(tempDir, "ad-products");
+      fs.mkdirSync(adProductsDir);
+      generateIndex(adProductsDir);
+      const adContent = fs.readFileSync(path.join(adProductsDir, "index.md"), "utf-8");
+      assert.match(adContent, /# Ad Products/);
+      
+      const apisDir = path.join(tempDir, "apis");
+      fs.mkdirSync(apisDir);
+      generateIndex(apisDir);
+      const apiContent = fs.readFileSync(path.join(apisDir, "index.md"), "utf-8");
+      assert.match(apiContent, /# APIs/);
     });
   });
 
