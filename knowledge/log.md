@@ -4,6 +4,9 @@ Newest entries first. One entry per concept created/changed per run.
 
 ## 2026-07-15
 
+- Created `ad-products/device-ads.md`: Device ads with 1 claim covering high-impact, immersive, and natively integrated ad experiences across Amazon devices with screens (Fire TV, Fire tablet, Echo Show) and Prime Video service
+- Created `ad-products/platform-unification.md`: Platform unification with 1 claim covering Amazon's new seamless, integrated ad buying experience bringing together Ads Console and Amazon DSP capabilities into single workspace
+- Updated `ad-products/index.md`: Added two new concepts (Device Ads, Platform Unification) to ad products section
 - Updated `apis/ads-api.md`: Enhanced with 2 additional capability claims (custom rules and automation logic, detailed reporting) covering API capabilities for creating custom rules and gathering detailed reporting
 - Updated `apis/access-and-auth.md`: Enhanced with 2 new claims covering two access paths (partners register and license applications, direct advertisers register for own accounts) and partner directory filtering by products, marketplaces, and service model
 - Updated `apis/documentation.md`: Enhanced with partner directory details showing filtering capabilities by products, marketplaces, and service model

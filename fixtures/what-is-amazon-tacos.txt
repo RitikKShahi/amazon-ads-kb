@@ -1,0 +1,253 @@
+![Helium 10](https://www.helium10.com/app/themes/helium10/assets/img/logos/logo-blue-duotone.svg)
+
+What is Amazon TACoS (Total Advertising Cost of Sale)?
+
+[Home](https://www.helium10.com/)
+
+[Blog](https://www.helium10.com/blog/)
+
+What is Amazon TACoS (Total Advertising Cost of Sale)?
+
+![What-is-Amazon-TACoS](https://www.helium10.com/app/uploads/2024/03/What-is-Amazon-TACoS-scaled.webp)
+
+# What is Amazon TACoS (Total Advertising Cost of Sale)?
+
+![author-photo](https://www.helium10.com/app/uploads/2024/09/Josh_VanAkker_BIO.webp)
+
+12 minute read
+
+**Published:**
+March 18, 2024
+
+**Modified:**
+March 20, 2024
+
+Share:
+
+##### Find Your Next Best Performing Keywords
+
+Get a free skill that surfaces terms worth going after, with branded keywords pulled into their own list so you can decide whether to target them in PPC or leave them alone.
+
+![What-is-Amazon-TACoS](https://www.helium10.com/app/uploads/2024/03/What-is-Amazon-TACoS-scaled.webp)
+
+##### Table of Contents
+
+##### Find Your Next Best Performing Keywords
+
+Get a free skill that surfaces terms worth going after, with branded keywords pulled into their own list so you can decide whether to target them in PPC or leave them alone.
+
+## **Introduction**
+
+Whether you’re a new Amazon seller or a seasoned Amazon vet, [PPC strategies](https://www.helium10.com/blog/18-amazon-ppc-strategies-to-boost-your-sales/) should be a key part of your business strategy on Amazon.
+
+The reality is you’ll struggle to be successful without investing your time and money in Amazon pay-per-click (PPC) ads – especially at launch. Check out Helium 10’s Amazon advertising platform to learn more!
+
+Today, we’re breaking down the meanings and use of the TACoS acronym and why we believe TACoS is the most important metric for your overall PPC strategy vs. ACoS alone (the metric that causes widespread tunnel vision among sellers).
+
+![YouTube Video Thumbnail](https://img.youtube.com/vi/Qrk75Kund_U/mqdefault.jpg)
+
+Outclass Your Competitors
+
+##### Achieve More Results in Less Time
+
+Maximize your results and drive success faster with Helium 10’s full suite of Amazon and Walmart solutions.
+
+## **What is Amazon TACoS?**
+
+The total advertising cost of sale (TACoS) is an effective way to measure ad spend compared to a seller’s total sales revenue. This also includes ad and organic sales.
+
+Additionally, TACoS provides all Amazon sellers with a great understanding of their ad performance, along with their business profitability. This is really useful in situations where these sellers are using [Amazon Advertising](https://www.helium10.com/blog/amazon-seller-central-ads/) campaigns in order to drive more traffic to their products.
+
+Speaking of these ad campaigns, if they do well on Amazon, then sellers will most likely see an improvement in their organic sales. By effectively utilizing TACoS, e-commerce entrepreneurs will be able to see an accurate representation of their business’s performance.
+
+Keep in mind that, with TACoS, the more sales your ads bring in, the higher your Amazon Best Sellers Rank—along with your organic keyword ranking—will rise until it reaches the very top. This is vital because, when any one of your products is higher in the search rankings, the higher your sales are.
+
+## **What Does TACoS Stand For?**
+
+The TACoS acronym stands for **total advertising cost of sales**. A marketing metric that measures the cost-effectiveness of your advertising campaigns, TACoS calculates the total advertising spend that is required to generate one total unit of revenue. The TACoS formula is:
+
+TACoS = Total Advertising Cost / Total Revenue
+
+When you calculate the TACoS score, Amazon businesses can figure out how much they’re spending on their advertising budget to earn each subsequent dollar of revenue. Something to keep in mind is that a lower TACoS value is an indicator of a business’s optimized advertising strategy. In simple terms, this means that an Amazon company is spending less on ads to generate each sale, leading to heightened profit.
+
+## **How to Calculate TACoS**
+
+If you’re having trouble figuring out your TACoS metric, you can simply divide your current ad spend on Amazon by your total sales revenue—which is your combined ad and organic sales—and then multiply that number by 100.
+
+A helpful formula that explains the above is:
+
+TACoS Score = (Advertising Spend ÷ Total Revenue) x 100
+
+Still confused? No problem! Let’s say that your monthly ad spend was $2,000 while your total sales were $2,000.
+
+2,000 ÷ 20,000 = 0.1
+
+0.1 x 100 = 10% TACoS Score
+
+In simple terms, for this hypothetical, every dollar that was spent on advertising generated 10 dollars in resulting sales for the seller.
+
+## **Why is TACoS Important?**
+
+The TACoS formula can be easily used to do the following:
+
+Keep in mind that TACoS is all about ad sales influencing organic sales and the various ways it can cause both positive and negative outcomes for your sales.
+
+Regarding a positive sales cycle, this occurs during an increase in ad spend, which in turn leads to greater ad sales and, finally, leads to a marked improvement in your organic ranking and sales.
+
+A negative sales cycle, on the other hand, occurs similarly to a positive one. Here, any decrease in ad spend will lead to a further decrease in ad sales, ultimately resulting in lower organic rankings and sales.
+
+## **What is the Difference Between TACoS and ACoS?**
+
+TACoS (total advertising cost of sale) is concerned with the total revenue for the sale. This is both the ad revenue and the organic revenue.
+
+ACoS (advertising cost of sale) is a little different. Instead of adding up both ad and organic revenue, the ACoS is found by dividing ad spend by ad revenue, which measures the efficacy of your advertising campaign.
+
+## **TACoS: Why ACoS Isn’t as Important as You Think**
+
+While your competitors are hyper-focused on ACoS, we advise you turn your attention to TACoS (that’s a fun acronym isn’t it?).
+
+*Why?*
+
+If you view PPC as your marketing budget for selling on Amazon, then it makes sense to look at all of your sales on Amazon, including organic. Since we also know that PPC can help you index for [relevant keywords](https://www.helium10.com/blog/discover-high-search-volume-low-competition-keywords/), which in turn helps you rank organically for those keywords, why wouldn’t you include your organic sales as you gauge performance?  
+  
+ACoS only zeroes in on your ad spend measured against PPC sales made from those ads.
+
+But TACoS gives you a holistic view of ALL your sales in relation to advertising spend.
+
+TACoS stands for **Total Advertising Cost of Sales**. Yes, it’s ACoS with ‘total’ added to it, but that ‘total’ makes all the difference.
+
+Think about it this way. ACoS tells you how much of your spend is being used towards **sales that are made as a direct result of your PPC ads.** In other words, ACoS is NOT taking into account your other sales made organically.
+
+For example, out of $1000 in total sales, say only 10% were from PPC ads and 90% were made organically (as in someone searched, found your product, and bought it from Amazon’s search results).
+
+If your ACoS was a frightening 100%, it’d sound like you were making zero profits, because all of your sales revenue is also being spent on advertising!
+
+But in this hypothetical scenario, since only 10% of all your sales are from paid ads, but 90% came from organic sales, your Total ACoS (TACoS) is really only 10%, which is quite nice!
+
+$100 spend / $100 PPC sales = 100% ACoS
+
+$100 spend / $100 PPC sales + $900 organic sales = 10% TACoS
+
+TACoS is therefore a weighted average that, again, gives you a holistic view of your advertising spend in relation to **all of your sales** across the board.
+
+And, lucky for you, Helium 10’s Helium 10 Ads includes this metric when you review your data.
+
+## **Why a High ACoS is (Painfully) Necessary in the Beginning…**
+
+When you’re setting up your ad campaigns for a new product, PPC essentially becomes your cost of initial research.
+
+Don’t fight it. Just accept the pain of high initial ACoS as the “protection money” you gotta shell out to do business on Amazon’s turf.
+
+What we’re saying is this: When you first start running PPC campaigns for a new product, you really don’t know what keywords will convert. Amazon will make guesses for you in Auto campaigns, but you’re basically taking a shot in the dark.  
+  
+Or, you can look at it as casting a wide net into the ocean in the hopes of pulling up an abundance of fish instead of rocks and metal scrap.
+
+Over time, you learn where the good fishing spots are, what weather conditions are best, and where to avoid fishing in the first place.
+
+The reality is that Amazon likes sales. The more sales you make, the more they boost your [product listing](https://www.helium10.com/blog/amazon-listing-optimization-guide/). It’s a snowball effect, but to get that snowball going you have to pay to get it on the top of the hill (aka, Top of Search).
+
+PPC ads get eyeballs to your listing, and eventually get shoppers hitting ‘add to cart.’
+
+This circles us back to another reason why TACoS is essential. **It helps you understand how PPC boosts organic sales**. While we might not be able to explicitly view the metrics on this, it stands that increased visibility (Ads) eventually leads to more searches for your specific product, which leads to organic sales. There’s more of that snowball effect.
+
+While ACoS only explicitly measures the ad spend to sales of a given item, TACoS acknowledges that there’s a symbiotic relationship between paid sales and organic sales.
+
+**Now for a warning**:
+
+Setting too low of an ACoS goal, in the beginning, is also dangerous because it means you could prematurely prune out keywords too early that eventually may convert.
+
+If your ACoS goal is too low as you begin your fishing/research, you may give up/eliminate potentially successful keywords from your PPC campaigns because they’re too expensive to bid on. Yet one more sale could mean the difference between a high to low ACoS keyword.
+
+So again, just accept the fact that you have to start with a high or breakeven ACoS. You’ll have time to narrow down your keyword bids later once you have a better understanding of what does and doesn’t work. You can’t do that until you have enough data.
+
+## **What is a Good TACoS?**
+
+While there is no specific example that results in a good TACoS you can, over a period of time, experience a decreasing or flat TACoS advertising percentage. While either of these helps make your ad campaign profitable, but it’s as close as you can get to a ‘good’ TACoS.
+
+## **How to Use TACoS for Amazon PPC**
+
+It’s important to remember that effective PPC ads can determine whether or not you achieve a low TACoS metric. You can help make this happen by always paying attention to your [ad campaigns](https://www.helium10.com/blog/amazon-listing-optimization-guide/) (including monitoring and optimizing them when needed). This may involve adjusting specific keywords, [bids](https://www.helium10.com/blog/sponsored-organic-rank-optimizing-bids-on-amazon/), [targeting](https://www.helium10.com/blog/better-sales-amazon-product-targeting-ads/), and ad spending.
+
+Additionally, it’s always a good idea to keep an ear to the ground regarding updates to Amazon’s advertising policies and guidelines. This will help guarantee that all your campaigns avoid disastrous penalties or other issues.
+
+[**Go here to view these tips and more!**](https://www.youtube.com/watch?v=LYeSefr9SsQ&list=PLZhJ7LRjHHEWQFZNB0-Kw6fUq4Ecbrqyj)
+
+## **How to Improve Your TACoS**
+
+### Product Listing Optimization
+
+By [optimizing your product listings on Amazon](https://www.helium10.com/blog/perfectly-optimize-amazon-product-listing/), you can help maximize the amount of conversions, leading to success on the e-commerce platform. Specific ways to optimize your listings include [improving your product images](https://www.helium10.com/blog/3d-rendered-product-images-boost-conversion-rate/), writing both compelling and informative bullets & descriptions, and always encouraging amazing customer reviews.
+
+Also, within the bullets, descriptions, and other copy on your listings (including [A+ copy](https://www.helium10.com/blog/amazon-a-plus-content/)), you should point out unique selling points, benefits, and features that make your product stand out from the rest.
+
+When you take the time to optimize your Amazon listings, you will most likely see an increase in both your organic traffic and conversions, which in turn reduces the amount of money you’ll need to spend on ads and improves your TACoS.
+
+### Keyword selection
+
+Selecting the perfect keywords for each of your products will seriously affect how well you do as an Amazon seller (not to mention how much they’ll improve your TACoS). If you don’t know where to start searching for keywords, we recommend using the powerful Helium 10 tools [Magnet](https://www.helium10.com/tools/keyword-research/magnet/) or [Cerebro](https://www.helium10.com/tools/keyword-research/cerebro/), both of which discover a huge amount of winning keywords at a lightning-fast pace. This, ultimately, allows you to make your product one of the [top selling items on Amazon](https://www.helium10.com/blog/top-selling-items-on-amazon/).
+
+Once you’ve decided on the keywords you want to use, you can then insert them into your ad campaigns. However, you’ll still need to keep an eye on them to make sure they’re performing well and, if not, make necessary adjustments. Additionally, it’s a good idea to include [negative keywords](https://www.helium10.com/blog/introducing-negative-keyword-wizard/), since they can help reduce the amount of unimportant clicks while improving your ads at the same time.
+
+### A/B testing
+
+Also known as split testing, [A/B testing](https://www.helium10.com/blog/amazon-a-b-testing/) is a popular and common advertising strategy that is most often used to test the effectiveness of different elements in your ad campaign. These elements include ad copy, images, and [landing pages](https://www.helium10.com/blog/drive-amazon-traffic-with-email-lists/). Along with testing these three elements, you can also use A/B testing for your Amazon PPC campaigns in order to determine the top ad variations, allowing you to optimize future campaigns for the best effect.
+
+Additionally, A/B testing is also frequently used to identify many different factors that contribute to a healthy TACoS metric, including ineffective ad copy or images. Furthermore, you can take extra steps to help improve your existing advertising performance by making incremental adjustments when needed and then tracking their impact.
+
+## **Helium 10’s Helium 10 Ads Monitors & Manages Your ACoS and TACoS**
+
+To figure out your TACoS metric, you’d have to manually download individual reports from Seller Central’s Business Reports section AND the Advertising Console, and compare the data using your own custom spreadsheets or charts to generate TACoS data.
+
+If that sounds like a headache, it’s because it is.
+
+This is why [Helium 10 Ads](https://www.helium10.com/tools/marketing/adtomic/) automatically generates your TACoS data for you, so you can monitor and adjust it yourself – all from inside the platform!
+
+## **Hungry yet?**
+
+Saying TACoS so many times is like subliminal messaging, and now it’s time to hit up my favorite taco truck.
+
+But in all seriousness, a major gap in PPC strategy for many sellers is the failure to look at TACoS as well as ACoS. Focusing only on the latter risks subjecting yourself to tunnel vision, which prevents you from seeing the big picture of your PPC campaign strategy.
+
+So even if your eyes have already glazed over, we hope your takeaway here is that you should avoid ACoS tunnel vision and look at both your organic and paid sales in relation to ad spend, and also accept that a high ACoS, in the beginning, is just part of succeeding on Amazon.
+
+*Now go forth and advertise.*
+
+![author-photo](https://www.helium10.com/app/uploads/2024/09/Josh_VanAkker_BIO.webp)
+
+A dedicated copywriter with nearly 4 years of experience, Josh works with Amazon sellers and helps his clients succeed on the platform.
+
+Share:
+
+Share:
+
+##### Thought Leadership, Tips, and Tricks
+
+Never miss insights into the Amazon selling space by signing up for our email list!
+
+Achieve More Results in Less Time
+
+## Accelerate the Growth of Your Business, Brand or Agency
+
+Maximize your results and drive success faster with Helium 10’s full suite of Amazon and Walmart solutions.
+
+![Helium 10](https://www.helium10.com/app/themes/helium10/assets/img/logos/logo-beige.svg)
+
+##### Learn More
+
+##### Learn More
+
+##### Tools
+
+##### Tools
+
+##### Resources
+
+##### Resources
+
+##### Company
+
+##### Company
+
+##### Help Center and Support
+
+##### Help Center and Support

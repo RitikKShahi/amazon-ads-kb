@@ -1,6 +1,7 @@
 # Ad Products
 
 - [Amazon DSP](/ad-products/dsp.md) — Demand-side platform that programmatically buys ads to reach new and existing audiences on Amazon and third-party apps and websites.
+- [Device Ads](/ad-products/device-ads.md) — High-impact, immersive ad experiences delivered across Amazon's ecosystem of devices with screens including Fire TV, Fire tablet, and Echo Show.
 - [Display Ads](/ad-products/display-ads.md) — Flexible ad formats that help brands reach relevant audiences wherever they spend time using Amazon-generated creative or custom creative assets.
 - [Platform Unification](/ad-products/platform-unification.md) — Amazon's unified advertising platform that brings together sponsored ads and Amazon DSP into a single workspace.
 - [Sponsored Display (Historical)](/ad-products/sponsored-display.md) — Self-service display advertising format that was rebranded as Display Ads as part of Amazon's platform unification.

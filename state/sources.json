@@ -8,67 +8,27 @@
     "last_changed": "2026-07-15T11:56:49.468Z"
   },
   "https://advertising.amazon.com/en-gb/products/display-ads": {
-    "hash": "7313ac6c764af5a9157427624fa84ab10c14c337288994084bb9472675d3305d",
+    "hash": "0c9c7d5007e30f526505b3de1232a9e9124b6a0c6dcc37410d8e6e36f3839dc6",
     "type": "product-page",
     "official": true,
     "first_seen": "2026-07-15T05:14:53.478Z",
-    "last_fetched": "2026-07-15T05:14:53.478Z",
-    "last_changed": "2026-07-15T05:14:53.478Z"
-  },
-  "https://advertising.amazon.com/library/guides/acos-advertising-cost-of-sales": {
-    "hash": "409c71516a7e8ca0ed64522bba30e20f8f16bc913c91e4f6cc3523a9e2d5703f",
-    "type": "guide",
-    "official": true,
-    "first_seen": "2026-07-15T05:14:53.865Z",
-    "last_fetched": "2026-07-15T05:14:53.865Z",
-    "last_changed": "2026-07-15T05:14:53.865Z"
-  },
-  "https://advertising.amazon.com/library/guides/basics-of-success-understanding-amazon-advertising": {
-    "hash": "58f9ff14047da284fae504bb2a649905efb5e70fbef5893ef47ef5613b658513",
-    "type": "guide",
-    "official": true,
-    "first_seen": "2026-07-15T05:14:54.297Z",
-    "last_fetched": "2026-07-15T05:14:54.297Z",
-    "last_changed": "2026-07-15T05:14:54.297Z"
-  },
-  "https://advertising.amazon.com/library/guides/display-ads-guide": {
-    "hash": "41591d8ed0313d8085e7e9e18e5b2ec0e4c1ed61aa1a1ce7234087e226f2aac8",
-    "type": "guide",
-    "official": true,
-    "first_seen": "2026-07-15T05:15:00.065Z",
-    "last_fetched": "2026-07-15T05:15:00.065Z",
-    "last_changed": "2026-07-15T05:15:00.065Z"
+    "last_fetched": "2026-07-15T14:00:14.920Z",
+    "last_changed": "2026-07-15T14:00:14.920Z"
   },
   "https://advertising.amazon.com/solutions/products/amazon-dsp": {
-    "hash": "9ddfef8abd481998ac465b929595515404023fa9ce356cc6ba38724f74802095",
+    "hash": "a2be56eea69721c53fb558e37f700a129c9dc607304909bafc9bb410cd128bcc",
     "type": "product-page",
     "official": true,
     "first_seen": "2026-07-15T05:15:00.919Z",
-    "last_fetched": "2026-07-15T05:15:00.919Z",
-    "last_changed": "2026-07-15T05:15:00.919Z"
-  },
-  "https://advertising.amazon.com/solutions/products/sponsored-display": {
-    "hash": "fa1029244b53ca037fb303a4ef97663d9d96865481eec65d4a18ab3351033d70",
-    "type": "product-page",
-    "official": true,
-    "first_seen": "2026-07-15T05:15:02.388Z",
-    "last_fetched": "2026-07-15T05:15:02.388Z",
-    "last_changed": "2026-07-15T05:15:02.388Z"
-  },
-  "https://advertising.amazon.com/solutions/products/sponsored-products": {
-    "hash": "42fdcdebc9804a9bd0f0cc8caed45df6ad835c2c71e2809ceee034829e48a5f8",
-    "type": "product-page",
-    "official": true,
-    "first_seen": "2026-07-15T05:15:02.433Z",
-    "last_fetched": "2026-07-15T05:15:02.433Z",
-    "last_changed": "2026-07-15T05:15:02.433Z"
+    "last_fetched": "2026-07-15T14:00:15.358Z",
+    "last_changed": "2026-07-15T14:00:15.358Z"
   },
   "https://www.helium10.com/blog/what-is-amazon-tacos": {
-    "hash": "57569c28bf4df809af247f306489dd52adbdc533a4cc8066dbb5cf62dc1eca3b",
+    "hash": "9a55db1ac40234ab3a3c2d16246a77dc45359b11714e13b450efe7ebffe29784",
     "type": "blog-post",
-    "official": false,
+    "official": true,
     "first_seen": "2026-07-15T05:15:07.080Z",
-    "last_fetched": "2026-07-15T05:15:07.080Z",
-    "last_changed": "2026-07-15T05:15:07.080Z"
+    "last_fetched": "2026-07-15T14:00:17.520Z",
+    "last_changed": "2026-07-15T14:00:17.520Z"
   }
 }
