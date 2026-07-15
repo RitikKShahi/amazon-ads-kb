@@ -120,7 +120,7 @@
 {\Huge\bfseries\color{secondary} Autonomous Knowledge Base}\\[1.5cm]
 
 {\Large Architecture \& Design Document}\\[0.5cm]
-{\color{textmuted}\large An LLM-powered pipeline that reads the web,\\extracts facts, and builds a living knowledge graph.}\\[2cm]
+{\color{textmuted}\large An LLM-powered pipeline that reads the web,\\extracts facts, and builds a living knowledge base.}\\[2cm]
 
 \begin{tikzpicture}
 \foreach \i in {0,1,...,4} {
@@ -256,7 +256,7 @@ amazon-ads-kb/
 |-- state/
 |   |-- seed_sources.json        # Starting URLs to crawl
 |   +-- sources.json             # Hash registry (the system's memory)
-|-- knowledge/                   # The final OKF knowledge graph
+|-- knowledge/                   # The final OKF knowledge base
 |-- fixtures/                    # Cached raw page snapshots
 +-- assignment.tex               # This document
 \end{lstlisting}
@@ -357,7 +357,7 @@ Summary:
    0 conflicts detected
 \end{lstlisting}
 
-\textbf{Proof Snapshot 4:} Scanning the entire knowledge graph for duplicates:
+\textbf{Proof Snapshot 4:} Scanning the entire knowledge base for duplicates:
 \begin{lstlisting}
 $ node scripts/verify_integrity.js
 
@@ -386,11 +386,11 @@ VERDICT: PERFECT DEDUPLICATION.
 \end{lstlisting}
 
 % ══════════════════════════════════════════════════════════════════════
-\section{Final Output: The Knowledge Graph}
+\section{Final Output: The Knowledge Base}
 % ══════════════════════════════════════════════════════════════════════
 
 \begin{successbox}[\faIcon{trophy} What We Built]
-4 web sources were autonomously processed into a pristine, deduplicated knowledge graph containing \textbf{13 OKF v0.1 concept files} across 3 taxonomy categories, totaling \textbf{364 verified claims} with zero duplicates.
+4 web sources were autonomously processed into a pristine, deduplicated knowledge base containing \textbf{13 OKF v0.1 concept files} across 3 taxonomy categories, totaling \textbf{364 verified claims} with zero duplicates.
 \end{successbox}
 
 \begin{center}

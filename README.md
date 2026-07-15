@@ -4,7 +4,7 @@ An autonomous, LLM-driven knowledge acquisition system designed to ingest unstru
 
 ## 🚀 About the Project
 
-This project leverages Claude Code subagents and Model Context Protocol (MCP) tools to build a living knowledge graph about Amazon Ads. The system fetches raw web pages, distills them into granular factual claims, and semantically merges them into a strictly structured markdown directory (`knowledge/`). 
+This project leverages Claude Code subagents and Model Context Protocol (MCP) tools to build a living knowledge base about Amazon Ads. The system fetches raw web pages, distills them into granular factual claims, and semantically merges them into a strictly structured markdown directory (`knowledge/`). 
 
 The core feature of this system is its **Idempotency Guarantee**. You can re-run the pipeline infinitely; it will safely skip unchanged sources and intelligently deduplicate overlapping claims to ensure zero redundant bullet points are created.
 
@@ -83,7 +83,7 @@ To verify the system's idempotency guarantee:
 3. The second run should produce **zero file diffs** under `knowledge/`. 
 4. Check `git status` — you will see the system intelligently skipped all processing.
 
-*(Note: You can run `node scripts/verify_integrity.js` at any time to scan the knowledge graph and mathematically prove zero semantic duplicates exist).*
+*(Note: You can run `node scripts/verify_integrity.js` at any time to scan the knowledge base and mathematically prove zero semantic duplicates exist).*
 
 ---
 
