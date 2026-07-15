@@ -82,6 +82,41 @@ This project utilizes a multi-agent, deterministic pipeline to safely ingest uns
     \item \textbf{Hybrid Scraping Architecture:} The Extractor is given agency via the Model Context Protocol (MCP). It reasons about the target URL: for standard static pages, it triggers the \textbf{Tavily Search MCP} for highly token-efficient HTML-to-Markdown conversion. For Single Page Applications (SPAs) or dynamically JS-rendered pages, it dynamically pivots to use \textbf{Playwright MCP} to navigate a real headless browser and evaluate the live DOM.
 \end{itemize}
 
+\section{Development Environment \& Repository Structure}
+
+\subsection{The Role of Claude Code}
+The entire system was developed iteratively using \textbf{Claude Code} as an autonomous pair programmer and orchestration engine. Claude Code was instrumental in:
+\begin{itemize}
+    \item Rapidly debugging the dynamic rendering hash failure via deep CLI inspection.
+    \item Hosting the multi-agent system (Scout, Extractor, Merger) using custom prompt profiles (\texttt{.claude/agents/}).
+    \item Facilitating MCP integration (Tavily and Playwright) directly into the agent workflows.
+\end{itemize}
+
+\subsection{Directory Structure \& Script Ecosystem}
+The repository is strictly organized to decouple state from intelligence. 
+
+\begin{lstlisting}[language=bash]
+amazon-ads-kb/
+├── .claude/
+│   ├── agents/                 # Subagent logic (extractor, merger)
+│   └── settings.json           # Agent tool permissions & pre-write hooks
+├── scripts/
+│   ├── hash_source.js          # Deterministic scraping & change detection
+│   ├── validate_okf_write.js   # Taxonomy enforcement hook
+│   └── verify_integrity.js     # Duplicate claim detection scanner
+├── state/
+│   ├── seed_sources.json       # Initial target URLs
+│   └── sources.json            # Registry containing current hashes
+├── knowledge/                  # The pristine OKF knowledge graph
+└── fixtures/                   # Raw DOM/Markdown snapshots for hashing
+\end{lstlisting}
+
+\begin{itemize}
+    \item \textbf{\texttt{hash\_source.js}:} The core state manager. Strips dynamic tracking pixels and compares URL hashes against \texttt{state/sources.json}.
+    \item \textbf{\texttt{validate\_okf\_write.js}:} A pre-write interceptor hook invoked by Claude Code. It strictly enforces the taxonomy (preventing agents from writing to rogue directories) and validates OKF frontmatter compliance before committing any changes to disk.
+    \item \textbf{\texttt{verify\_integrity.js}:} An external scanner used to mathematically prove that the Merger subagent successfully deduplicated all claims across the \texttt{knowledge/} graph.
+\end{itemize}
+
 \section{Error Handling \& Problem Solving}
 \textbf{The Dynamic Render Problem:} During testing, our pipeline entered an infinite extraction loop. We discovered that Amazon injects dynamically rotating \texttt{fls-na} tracking pixels into its pages. Because the session ID in this pixel rotates instantly, standard cryptographic hashing failed on every request. \\
 \textbf{The Solution:} We implemented a custom regex sanitizer inside the \texttt{normalize()} function of \texttt{hash\_source.js} to successfully strip these dynamic pixels before hashing, immediately restoring pipeline stability.
