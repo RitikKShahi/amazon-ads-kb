@@ -50,5 +50,4 @@ You run the **Extract** stage for a single source. You are handed one URL
 - 5-15 claims per source is typical. If you're extracting 40+, you're
   probably capturing sentences instead of facts — consolidate.
 
-Prefer `tavily_extract` for static pages — it returns clean content without manual parsing. Fall back to Playwright navigate+snapshot only if the page requires JS rendering or interaction to reach the content.
-After fetching a source, save its content to a temporary file in `fixtures/` (e.g., `fixtures/<slug>.txt`), then run `node scripts/hash_source.js check <url> <path>` via Bash to determine if it's changed before spending effort extracting claims from it.
+After fetching a source with `tavily_extract`, immediately save the EXACT raw Markdown string returned by the tool to a temporary file in `fixtures/` (e.g., `fixtures/<slug>.txt`). **CRITICAL**: Do NOT save your JSON claims to this file. Save ONLY the exact text you got from the website. Do NOT add any headers or formatting. Then, run `node scripts/hash_source.js check <url> <path>` via Bash. **If it outputs UNCHANGED, stop immediately and do not extract any claims.**

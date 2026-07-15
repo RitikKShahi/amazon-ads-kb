@@ -34,7 +34,11 @@ function normalize(text) {
   // Deliberately simple: collapse whitespace so trivial formatting churn
   // (extra blank lines, trailing spaces) doesn't register as a "change".
   // Extend this if a real source turns out to be noisy in other ways.
-  return text.replace(/\s+/g, " ").trim();
+  
+  // Strip Amazon dynamic tracking pixels that change on every fetch
+  let cleaned = text.replace(/!\[.*?\]\([^)]*fls-na\.amazon\.com[^)]*\)/g, "");
+  
+  return cleaned.replace(/\s+/g, " ").trim();
 }
 
 function hashOf(text) {

@@ -4,6 +4,20 @@ Newest entries first. One entry per concept created/changed per run.
 
 ## 2026-07-15
 
+- Updated `apis/ads-api.md`: Enhanced with 2 additional capability claims (custom rules and automation logic, detailed reporting) covering API capabilities for creating custom rules and gathering detailed reporting
+- Updated `apis/access-and-auth.md`: Enhanced with 2 new claims covering two access paths (partners register and license applications, direct advertisers register for own accounts) and partner directory filtering by products, marketplaces, and service model
+- Updated `apis/documentation.md`: Enhanced with partner directory details showing filtering capabilities by products, marketplaces, and service model
+
+## 2026-07-15
+
+- Updated `apis/ads-api.md`: Added 2 new claims covering API enabling planning, activating, and measuring programmatic media strategies at scale, and regional availability for solution providers and advertising agencies with documented endpoints
+- Updated `apis/access-and-auth.md`: Added 2 new claims covering partner registration via Amazon Partner Network to license applications, and direct advertiser registration process on behalf of advertising accounts
+- Created `apis/access-and-auth.md`: API access and authentication process with 4 claims covering application requirements, partner access model, direct advertiser access model, and application requirements by user type
+- Created `apis/testing.md`: Amazon Ads API testing environment with 1 claim covering test account features, benefits, and use cases for development
+- Created `apis/documentation.md`: Amazon Ads API documentation resources with 2 claims covering Amazon Ads API Developers Portal (onboarding materials, documentation, release notes, personalized dashboard) and GitHub repository (amzn/ads-advanced-tools-docs)
+- Updated `apis/index.md`: Added 4 new API concepts (Amazon Ads API, Access and Authentication, Testing, Documentation) to APIs section
+- Updated `index.md`: Updated APIs section description to reflect expanded coverage
+
 - Created `ad-products/dsp.md`: Amazon Demand-Side Platform with 15 claims covering overview, 19-country availability, five ad formats (audio, display, online video, streaming TV, physical store), pricing models (self-service vs managed-service with $50K minimum), programmatic buying options (RTB, PMP, private auction, programmatic guaranteed), audience targeting categories, first-party and third-party supply sources, media planning suite, measurement solutions (OCM, MMM), and platform integration with AWS, Amazon Marketing Cloud, and Amazon Publisher Cloud
 - Created `ad-products/display-ads.md`: Comprehensive display ads guide merging 30+ claims covering platform transition from Sponsored Display, rebranding as Display Ads, unified platform features, eligibility requirements (vendors, Brand Registry professional sellers), image and video formats, pricing models (CPC/vCPM for sponsored ads, managed-service for Amazon DSP), budget management ($40-60 daily guideline), behavioral vs keyword targeting, contextual targeting, audience targeting (Amazon audiences categories), remarketing (views and purchases), bid optimization strategies (viewable impressions, page visits, conversions), performance tradeoffs, attribution windows (7-14 days), promotional badges, key metrics, and three case studies
 - Created `ad-products/platform-unification.md`: Amazon's unified advertising platform bringing together sponsored ads and Amazon DSP into single workspace, centralized hub for all Amazon Ads products, campaign continuity (existing uninterrupted, new through unified platform), simplified operations, enhanced capabilities, operational and strategic benefits, and seamless migration

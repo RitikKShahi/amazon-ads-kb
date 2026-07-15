@@ -12,7 +12,7 @@ fixing links — regenerate via the Publish stage instead.
 - [Ad Products](/ad-products/index.md) — Sponsored Products, Sponsored
   Brands, Sponsored Display, DSP
 - [Metrics](/metrics/index.md) — ACOS, TACOS, ROAS, CTR, CPC, ROI, and related terminology
-- [APIs](/apis/index.md) — Amazon Ads API concepts, auth, reporting
+- [APIs](/apis/index.md) — Amazon Ads API, access, testing, documentation, and reporting
 - [Strategy](/strategy/index.md) — PPC strategy and optimization approaches
 - [Glossary](/glossary/index.md) — general terminology
 

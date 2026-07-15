@@ -1,11 +1,11 @@
 {
   "https://advertising.amazon.com/about-api": {
-    "hash": "7168665aef94a37227ec8bca308ae99f0447107abb779059694f8066cd05d288",
-    "type": "api-docs",
+    "hash": "c41eba0d4e6dca92a96a8599a3f409972d1bcfdbc01e1b187e8820203dc081ca",
+    "type": "web",
     "official": true,
     "first_seen": "2026-07-15T05:14:53.436Z",
-    "last_fetched": "2026-07-15T05:14:53.436Z",
-    "last_changed": "2026-07-15T05:14:53.436Z"
+    "last_fetched": "2026-07-15T11:56:49.468Z",
+    "last_changed": "2026-07-15T11:56:49.468Z"
   },
   "https://advertising.amazon.com/en-gb/products/display-ads": {
     "hash": "7313ac6c764af5a9157427624fa84ab10c14c337288994084bb9472675d3305d",
