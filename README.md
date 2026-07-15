@@ -106,11 +106,6 @@ Run these 4 commands to prove that the system is completely bulletproof:
    ```
    *What it does:* It will output `UNCHANGED`. Proves that re-running the pipeline on an unchanged page will instantly halt and save API tokens instead of infinitely scraping it.
 
-4. **Compile your Design Document** (Proves the PDF is ready)
-   ```bash
-   pdflatex assignment.tex
-   ```
-   *What it does:* Compiles your stunning architecture document into `assignment.pdf`.
 
 ### What happens if the hash *does* change?
 If Amazon updates their documentation, the `hash_source.js` check will return `CHANGED`. The system automatically handles this gracefully:
