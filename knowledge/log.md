@@ -2,6 +2,18 @@
 
 Newest entries first. One entry per concept created/changed per run.
 
+## 2026-07-15
+
+- Created `ad-products/dsp.md`: Amazon Demand-Side Platform with 15 claims covering overview, 19-country availability, five ad formats (audio, display, online video, streaming TV, physical store), pricing models (self-service vs managed-service with $50K minimum), programmatic buying options (RTB, PMP, private auction, programmatic guaranteed), audience targeting categories, first-party and third-party supply sources, media planning suite, measurement solutions (OCM, MMM), and platform integration with AWS, Amazon Marketing Cloud, and Amazon Publisher Cloud
+- Created `ad-products/display-ads.md`: Comprehensive display ads guide merging 30+ claims covering platform transition from Sponsored Display, rebranding as Display Ads, unified platform features, eligibility requirements (vendors, Brand Registry professional sellers), image and video formats, pricing models (CPC/vCPM for sponsored ads, managed-service for Amazon DSP), budget management ($40-60 daily guideline), behavioral vs keyword targeting, contextual targeting, audience targeting (Amazon audiences categories), remarketing (views and purchases), bid optimization strategies (viewable impressions, page visits, conversions), performance tradeoffs, attribution windows (7-14 days), promotional badges, key metrics, and three case studies
+- Created `ad-products/platform-unification.md`: Amazon's unified advertising platform bringing together sponsored ads and Amazon DSP into single workspace, centralized hub for all Amazon Ads products, campaign continuity (existing uninterrupted, new through unified platform), simplified operations, enhanced capabilities, operational and strategic benefits, and seamless migration
+- Created `ad-products/sponsored-display.md`: Historical context for rebranded Sponsored Display format, platform transition details, legacy features (targeting, pricing, formats, measurement), migration guidance to unified platform, and relationship to Display Ads
+- Created `metrics/dpvr.md`: Detail Page View Rate metric, Amazon-proprietary DSP metric measuring product detail page views after ad exposure, consideration phase measurement, usage in campaign evaluation, relationship to other metrics (impressions, clicks, ATL, NTB), and strategic importance for brand awareness and product launches
+- Updated `metrics/impressions.md`: Added Display Ads case studies showing 7x impressions increase for pro sports team and 299% glance view increase for Thule Urban Glide 2 stroller, demonstrating optimization impact on visibility performance
+- Updated `ad-products/index.md`: Added five new concepts (Amazon DSP, Display Ads, Platform Unification, Sponsored Display Historical) to ad products section
+- Updated `metrics/index.md`: Added DPVR (Detail Page View Rate) to metrics section
+- Updated `log.md`: Recorded all 73 claims processed from 4 sources (Amazon DSP documentation 15 claims, Sponsored Display transition 8 claims, Display Ads Overview 18 claims, Display Ads Comprehensive Guide 30 claims)
+
 ## 2026-07-14
 
 - Updated `metrics/acos.md`: Added industry benchmarks (15-30% range), ACOS optimization strategies (20-35% reduction potential), and systematic optimization approaches

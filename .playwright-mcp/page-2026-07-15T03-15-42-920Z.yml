@@ -1,0 +1,518 @@
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - navigation [ref=f1e5]:
+      - link "Skip to main content" [ref=f1e6] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=f1e7]:
+        - link [ref=f1e8] [cursor=pointer]:
+          - /url: /en-gb/?ref_=logo
+          - img "Amazon Ads" [ref=f1e9]
+        - list [ref=f1e10]:
+          - listitem [ref=f1e11] [cursor=pointer]:
+            - link "Goals" [ref=f1e12]:
+              - /url: "#"
+          - listitem [ref=f1e13] [cursor=pointer]:
+            - link "Products" [ref=f1e14]:
+              - /url: "#"
+          - listitem [ref=f1e15] [cursor=pointer]:
+            - link "Channels" [ref=f1e16]:
+              - /url: "#"
+          - listitem [ref=f1e17] [cursor=pointer]:
+            - link "Measurement" [ref=f1e18]:
+              - /url: "#"
+          - listitem [ref=f1e19] [cursor=pointer]:
+            - link "Tools" [ref=f1e20]:
+              - /url: "#"
+          - listitem [ref=f1e21] [cursor=pointer]:
+            - link "Partners" [ref=f1e22]:
+              - /url: "#"
+          - listitem [ref=f1e23] [cursor=pointer]:
+            - link "Learn" [ref=f1e24]:
+              - /url: "#"
+      - list [ref=f1e26]:
+        - listitem [ref=f1e27] [cursor=pointer]:
+          - link "Search" [ref=f1e28]:
+            - /url: "#"
+        - listitem [ref=f1e29]:
+          - link "Sign in" [ref=f1e30] [cursor=pointer]:
+            - /url: /en-gb/sign-in?ref_=a20m_us_hnav_sgn
+        - listitem [ref=f1e31]:
+          - link "Register" [ref=f1e32] [cursor=pointer]:
+            - /url: /en-gb/register?ref_=a20m_us_hnav_rgstr
+  - main [ref=f1e33]:
+    - generic [ref=f1e36]:
+      - generic [ref=f1e39]:
+        - generic [ref=f1e41]:
+          - img "Display ads icon" [ref=f1e44]
+          - heading "Display ads" [level=1] [ref=f1e46]:
+            - generic [ref=f1e47]: D
+            - text: isplay ads
+          - heading "Engage audiences wherever they spend time" [level=2] [ref=f1e49]
+          - paragraph [ref=f1e51]: Display ads are flexible ad formats that help connect your brand with relevant audiences. Leverage Amazon's first-party insights and multi-format creatives to engage customers on Amazon properties and premium placements across the open internet.
+          - link "Register" [ref=f1e54] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/register?ref_=a20m_us_p_da_h_rgstr
+        - img "Display ad example at the top of a search results page on the Amazon store." [ref=f1e60]
+      - generic [ref=f1e63]:
+        - generic [ref=f1e65]:
+          - heading "Why should I use display ads?" [level=2] [ref=f1e68]
+          - paragraph [ref=f1e71]: With minimal campaign inputs and flexible cost structures to fit different needs, display ads are available for any business to get started in minutes. Display ads can help advertisers discover, reach, and engage the right audiences in the right context across their shopping journeys.
+        - generic [ref=f1e74]:
+          - generic [ref=f1e76]:
+            - img "icon depicting a 3 silhouettes of people" [ref=f1e79]
+            - heading "Connect with customers where they spend their time" [level=3] [ref=f1e81]
+            - paragraph [ref=f1e83]: Reach potential customers where they stream, shop, and browse on Amazon properties and premium placements across the open internet.
+          - generic [ref=f1e85]:
+            - img "white geometric icon showing a central rocket shape with four directional arrows pointing outward, suggesting expansion or reach" [ref=f1e88]
+            - heading "Increase brand engagement" [level=3] [ref=f1e90]
+            - paragraph [ref=f1e92]: Leverage shopping and streaming insights on Amazon to reach customers when they’re most ready to interact with your brand, products, or services.
+          - generic [ref=f1e94]:
+            - img "icon showing a desktop with a mouse cursor over an ad" [ref=f1e97]
+            - heading "Stand out in a crowded digital landscape" [level=3] [ref=f1e99]
+            - paragraph [ref=f1e101]: Capture attention with multi-format, dynamically optimized creatives and premium placements to create memorable moments with your audience.
+      - generic [ref=f1e104]:
+        - generic [ref=f1e106]:
+          - paragraph [ref=f1e108]: Solutions
+          - heading "Featured solutions" [level=2] [ref=f1e110]
+        - generic [ref=f1e113]:
+          - generic [ref=f1e115]:
+            - heading "Display ads through sponsored ads" [level=3] [ref=f1e119]
+            - paragraph [ref=f1e121]: Formerly known as Sponsored Display, this is an easy-to-use way to buy display ads for advertisers familiar with the Ads Console. It combines simplicity with automation to help you work more efficiently.
+            - link "Achieve your marketing goals wherever they spend time" [ref=f1e124] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/register?ref_=a20m_us_p_da_rgstr
+          - generic "https://advertising.amazon.com/solutions/products/sponsored-display?ref_=a20m_us_p_da_p_sd" [ref=f1e132]:
+            - link "Sponsored Display" [ref=f1e133] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/solutions/products/sponsored-display?ref_=a20m_us_p_da_p_sd
+              - img "Display ad example on the amazon store home page" [ref=f1e136]
+        - generic [ref=f1e141]:
+          - generic [ref=f1e143]:
+            - heading "Amazon DSP" [level=3] [ref=f1e147]:
+              - generic [ref=f1e148]: A
+              - text: mazon DSP
+            - paragraph [ref=f1e150]: Programmatically scale your advertising with display ads via Amazon DSP and engage audiences across thousands of websites.
+            - link "Programmatically enhance your display campaign performance" [ref=f1e153] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/solutions/products/amazon-dsp?ref_=a20m_us_p_da_p_dsp
+          - generic "https://advertising.amazon.com/solutions/products/amazon-dsp?ref_=a20m_us_p_da_p_dsp" [ref=f1e161]:
+            - link "Amazon DSP" [ref=f1e162] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/solutions/products/amazon-dsp?ref_=a20m_us_p_da_p_dsp
+              - img "Fire TV ad placement example" [ref=f1e165]
+        - generic [ref=f1e170]:
+          - generic [ref=f1e172]:
+            - heading "Device ads" [level=3] [ref=f1e176]:
+              - generic [ref=f1e177]: D
+              - text: evice ads
+            - paragraph [ref=f1e179]: Device ads run across Amazon devices with screens (like Fire TV, Fire tablet, and Echo Show) and on services (like Prime Video) to deliver high-impact, immersive, and natively integrated ad experiences that make it easy for customers to engage and take action.
+            - link "Reach hundreds of millions of consumers throughout their days" [ref=f1e182] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/products/device-ads?ref_=a20m_us_p_da_p_dvc
+          - generic "https://advertising.amazon.com/products/device-ads?ref_=a20m_us_p_da_p_dvc" [ref=f1e190]:
+            - link "Device ads" [ref=f1e191] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/products/device-ads?ref_=a20m_us_p_da_p_dvc
+              - img "Device ad example on an amazon device" [ref=f1e194]
+      - generic [ref=f1e197]:
+        - heading "New to Amazon Ads? Start here" [level=2] [ref=f1e201]
+        - generic [ref=f1e204]:
+          - generic [ref=f1e206]:
+            - heading "Find your path to advertising success with Amazon Ads in just under a minute." [level=3] [ref=f1e208]:
+              - text: Find your path to
+              - generic [ref=f1e209]: advertising success
+              - text: with Amazon Ads in just under a minute.
+            - paragraph [ref=f1e211]: Our quick assessment delivers curated case studies, guides, and product information aligned with your goals.
+            - link "Start your Amazon Ads quick assessment to help you get started" [ref=f1e214] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/get-started?ref_=a20m_us_p_da_gsh
+              - generic [ref=f1e215]: Start now
+          - img "Illustration of a person interacting with a curved ribbon of digital marketing icons including shopping cart, thumbs up, and analytics symbols" [ref=f1e220]
+      - generic [ref=f1e223]:
+        - generic [ref=f1e225]:
+          - paragraph [ref=f1e227]: RESOURCES
+          - heading "Display ads guides" [level=2] [ref=f1e229]
+        - generic [ref=f1e232]:
+          - link "Everything you need to know about display ads" [ref=f1e235] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/library/guides/display-ads-guide?ref_=a20m_us_p_da_rs_lbr_gd_dagd
+            - generic [ref=f1e237]:
+              - paragraph [ref=f1e238]: Guides
+              - heading "Everything you need to know about display ads" [level=3] [ref=f1e239]
+              - paragraph [ref=f1e240]: Display ads help you reach more of your ideal buyers and drive performance across the entire buying journey, from awareness to purchase and repurchase.
+          - link "How to use display ads if you don’t sell products on Amazon" [ref=f1e247] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/library/guides/display-ads-beyond-amazon?ref_=a20m_us_p_da_rs_lbr_gd_dane
+            - generic [ref=f1e249]:
+              - paragraph [ref=f1e250]: Guides
+              - heading "How to use display ads if you don’t sell products on Amazon" [level=3] [ref=f1e251]
+              - paragraph [ref=f1e252]: How to launch your first display ad campaign if your business does not sell in the Amazon store.
+          - link "Best display ad examples - A guide to creative ad design" [ref=f1e259] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/library/guides/display-ads-examples?ref_=a20m_us_p_da_rs_lbr_gd_daex
+            - generic [ref=f1e260]:
+              - 'img "{\"blocks\":[{\"key\":\"eu8kq\",\"text\":\"Two people with surprised expressions looking at a yellow smartphone together against a turquoise background.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}" [ref=f1e261]'
+              - generic [ref=f1e262]:
+                - paragraph [ref=f1e263]: Guides
+                - heading "Best display ad examples - A guide to creative ad design" [level=3] [ref=f1e264]
+                - paragraph [ref=f1e265]: Display advertising refers to ads that are delivered online. Learn how to create the best display ads with examples, tips, and ideas from Amazon Ads.
+      - generic [ref=f1e272]:
+        - generic [ref=f1e274]:
+          - paragraph [ref=f1e276]: Case studies
+          - heading "Display ads case studies" [level=2] [ref=f1e278]
+          - link "View all case studies" [ref=f1e281] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/resources/library?subpageType=Education&relatedContentTypes=Case%20studies&relatedProducts=Display%20ads&ref_=a20m_us_p_sd_rs_lbr_allcs_c#I1
+        - generic [ref=f1e285]:
+          - generic "https://advertising.amazon.com/library/case-studies/skai-goodway-group?ref_=a20m_us_p_sd_rs_lbr_cs_skai_c" [ref=f1e287]:
+            - link [ref=f1e288] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/library/case-studies/skai-goodway-group?ref_=a20m_us_p_sd_rs_lbr_cs_skai_c
+              - img "Person in white outfit holds teal football" [ref=f1e291]
+          - generic [ref=f1e293]:
+            - heading "A pro sports team reached new fans with display ads" [level=3] [ref=f1e295]
+            - paragraph [ref=f1e297]: How a pro sports team reached new audiences with display ads, an Amazon Ads solution for businesses that don’t sell on Amazon.
+            - link [ref=f1e300] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/library/case-studies/skai-goodway-group?ref_=a20m_us_p_da_rs_lbr_cs_skai
+          - generic [ref=f1e308]:
+            - paragraph [ref=f1e310]: Key learnings
+            - generic [ref=f1e312]:
+              - heading "7x" [level=4] [ref=f1e314]
+              - paragraph [ref=f1e316]:
+                - text: Three weeks post optimization, the pro sports team’s campaign increased impressions by 7 times.
+                - superscript [ref=f1e317]: "1"
+            - generic [ref=f1e319]:
+              - heading "70%" [level=4] [ref=f1e321]
+              - paragraph [ref=f1e323]:
+                - text: Three weeks post optimization, the pro sports team’s campaign increased clickthrough rate by 70 percent.
+                - superscript [ref=f1e324]: "2"
+        - generic [ref=f1e332]:
+          - generic "https://advertising.amazon.com/library/case-studies/thule-partners-with-global-overview?ref_=a20m_us_p_sd_rs_lbr_cs_thule_c" [ref=f1e334]:
+            - link [ref=f1e335] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/library/case-studies/thule-partners-with-global-overview?ref_=a20m_us_p_sd_rs_lbr_cs_thule_c
+              - img "Parent kneels beside child in Thule stroller during outdoor walk, with sunlit foliage in background" [ref=f1e338]
+          - generic [ref=f1e340]:
+            - heading "Thule partners with agency Global Overview to help increase traffic" [level=3] [ref=f1e342]
+            - paragraph [ref=f1e344]: Learn how Global Overview used display ads with video to help drive more efficient traffic for Thule’s Urban Glide 2 stroller.
+            - link [ref=f1e347] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/library/case-studies/thule-partners-with-global-overview?ref_=a20m_us_p_da_rs_lbr_cs_thule
+          - generic [ref=f1e355]:
+            - paragraph [ref=f1e357]: Key learnings
+            - generic [ref=f1e359]:
+              - heading "299%" [level=4] [ref=f1e361]
+              - paragraph [ref=f1e363]:
+                - text: During a two-month display ads with video test, Global Overview found a 299% increase in the Urban Glide 2's average monthly glance views compared to the previous two-month period.
+                - superscript [ref=f1e364]: "3"
+        - generic [ref=f1e369]:
+          - generic "https://advertising.amazon.com/library/case-studies/bagail?ref_=a20m_us_p_sd_rs_lbr_cs_bagail_c" [ref=f1e371]:
+            - link [ref=f1e372] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/library/case-studies/bagail?ref_=a20m_us_p_sd_rs_lbr_cs_bagail_c
+              - img "Person sitting in armchair packs blue luggage on geometric rug, preparing for travel in home setting" [ref=f1e375]
+          - generic [ref=f1e377]:
+            - heading "Using display ads to help increase brand awareness with Amazon Ads" [level=3] [ref=f1e379]
+            - paragraph [ref=f1e381]: Discover how Bagail, a travel and home accessories company, uses display ads to help improve visibility of their products to shoppers.
+            - link [ref=f1e384] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/library/case-studies/bagail?ref_=a20m_us_p_da_rs_lbr_cs_bagail
+          - generic [ref=f1e392]:
+            - paragraph [ref=f1e394]: Key learnings
+            - generic [ref=f1e396]:
+              - heading "2x" [level=4] [ref=f1e398]
+              - paragraph [ref=f1e400]:
+                - text: While using display ads, Bagail has observed that discoverability for their brand name and products have doubled from 2021 to 2022.
+                - superscript [ref=f1e401]: "4"
+      - generic [ref=f1e404]:
+        - generic [ref=f1e406]:
+          - img "person with magnifying glass" [ref=f1e409]
+          - heading "Frequently asked questions, answered" [level=2] [ref=f1e411]: Frequently askedquestions, answered
+        - generic [ref=f1e414]:
+          - generic [ref=f1e416]:
+            - generic [ref=f1e417] [cursor=pointer]:
+              - generic [ref=f1e418]: How much do display ads cost?
+              - img "open" [ref=f1e419]
+            - paragraph [ref=f1e427]:
+              - text: Display ads executed through sponsored ads supports
+              - link "cost-per-click (CPC)" [ref=f1e428] [cursor=pointer]:
+                - /url: https://advertising.amazon.com/library/guides/cost-per-click?ref_=a20m_us_p_da_faq_rs_lbr_gd_cpc
+              - text: as well as
+              - link "cost-per-thousand viewable impression (vCPM)" [ref=f1e429] [cursor=pointer]:
+                - /url: https://advertising.amazon.com/library/guides/cost-per-mille?ref_=a20m_us_p_da_faq_rs_lbr_gd_cpm
+              - text: pricing options with no minimum campaign spend requirements. This self-service option gives customers full control of their campaigns with no management fees. Pricing for displays ads executed through Amazon DSP varies depending on the format and placement. This managed-service option typically requires a minimum spend of $50,000 (minimum may vary per country). Native display ads support share of voice (SOV), rotational media, and auction, such as CPM, CPC, and cost per action.
+          - generic [ref=f1e432] [cursor=pointer]:
+            - generic [ref=f1e433]: Where do display ads appear?
+            - img "close" [ref=f1e434]
+          - generic [ref=f1e440] [cursor=pointer]:
+            - generic [ref=f1e441]: Where are customers taken to when they click my ads?
+            - img "close" [ref=f1e442]
+          - generic [ref=f1e448] [cursor=pointer]:
+            - generic [ref=f1e449]: What type of formats can display ads support?
+            - img "close" [ref=f1e450]
+          - generic [ref=f1e456] [cursor=pointer]:
+            - generic [ref=f1e457]: What happened to Sponsored Display?
+            - img "close" [ref=f1e458]
+      - generic [ref=f1e474]:
+        - generic [ref=f1e475]:
+          - generic [ref=f1e476]: Was this content helpful?
+          - generic [ref=f1e478]: Help us improve by sharing your feedback.
+        - generic [ref=f1e479]:
+          - link "This page wasn't helpful" [ref=f1e480] [cursor=pointer]:
+            - /url: "#"
+          - link "This page was helpful" [ref=f1e485] [cursor=pointer]:
+            - /url: "#"
+      - generic [ref=f1e494]:
+        - paragraph [ref=f1e496]:
+          - strong [ref=f1e497]: Sources
+        - list [ref=f1e499]:
+          - paragraph [ref=f1e501]:
+            - superscript [ref=f1e502]:
+              - emphasis [ref=f1e503]: 1-3
+            - emphasis [ref=f1e504]: Goodway Group, United States, 2023.
+          - paragraph [ref=f1e506]:
+            - superscript [ref=f1e507]:
+              - emphasis [ref=f1e508]: "4"
+            - emphasis [ref=f1e509]: Advertiser-provided data, US, 2022. Results are reflective of campaigns for one advertiser, Bagail, and are not indicative of future outcomes.
+  - link "Feedback" [ref=f1e515] [cursor=pointer]:
+    - /url: "#"
+  - contentinfo [ref=f1e519]:
+    - generic [ref=f1e521]:
+      - combobox "Choose a language" [ref=f1e524]:
+        - option "Deutsch"
+        - option "English (Canada)"
+        - option "English (UK)" [selected]
+        - option "English (US)"
+        - option "Español (Colombia)"
+        - option "Español (España)"
+        - option "Español (México)"
+        - option "Français (Canada)"
+        - option "Français (France)"
+        - option "Italiano"
+        - option "Nederlands"
+        - option "Polski"
+        - option "Português (Brasil)"
+        - option "Svenska"
+        - option "Tiếng Việt"
+        - option "Türkçe"
+        - option "العربية"
+        - option "हिंदी"
+        - option "ไทย"
+        - option "简体中文"
+        - option "繁體中文"
+        - option "日本語"
+        - option "한국어"
+      - menu [ref=f1e525]:
+        - menuitem [ref=f1e526]:
+          - menu [ref=f1e527]:
+            - menuitem "Goals" [ref=f1e528]
+            - menuitem [ref=f1e529]:
+              - link "Build brand awareness" [ref=f1e530] [cursor=pointer]:
+                - /url: /en-gb/objectives/brand-awareness?ref_=a20m_us_fnav_obj_ba
+            - menuitem [ref=f1e531]:
+              - link "Reach more customers" [ref=f1e532] [cursor=pointer]:
+                - /url: /en-gb/objectives/reach-more-customers?ref_=a20m_us_fnav_obj_rch
+            - menuitem [ref=f1e533]:
+              - link "Increase traffic" [ref=f1e534] [cursor=pointer]:
+                - /url: /en-gb/objectives/increase-traffic?ref_=a20m_us_fnav_obj_trffc
+            - menuitem [ref=f1e535]:
+              - link "Increase sales and conversion" [ref=f1e536] [cursor=pointer]:
+                - /url: /en-gb/objectives/increase-sales?ref_=a20m_us_fnav_obj_sls
+            - menuitem [ref=f1e537]:
+              - link "Improve customer loyalty" [ref=f1e538] [cursor=pointer]:
+                - /url: /en-gb/objectives/customer-loyalty?ref_=a20m_us_fnav_obj_lylty
+            - menuitem [ref=f1e539]:
+              - link "Ad products and formats" [ref=f1e540] [cursor=pointer]:
+                - /url: /en-gb/products?ref_=a20m_us_fnav_p
+            - menuitem [ref=f1e541]:
+              - link "Sponsored ads" [ref=f1e542] [cursor=pointer]:
+                - /url: /en-gb/products/sponsored-ads?ref_=a20m_us_fnav_p_sa
+            - menuitem [ref=f1e543]:
+              - link "Sponsored Products" [ref=f1e544] [cursor=pointer]:
+                - /url: /en-gb/solutions/products/sponsored-products?ref_=a20m_us_fnav_p_sp
+            - menuitem [ref=f1e545]:
+              - link "Sponsored Brands" [ref=f1e546] [cursor=pointer]:
+                - /url: /en-gb/solutions/products/sponsored-brands?ref_=a20m_us_fnav_p_sb
+            - menuitem [ref=f1e547]:
+              - link "Display ads" [ref=f1e548] [cursor=pointer]:
+                - /url: /en-gb/products/display-ads?ref_=a20m_us_fnav_p_da
+            - menuitem [ref=f1e549]:
+              - link "Video ads" [ref=f1e550] [cursor=pointer]:
+                - /url: /en-gb/solutions/products/video-ads?ref_=a20m_us_fnav_p_va
+            - menuitem [ref=f1e551]:
+              - link "Audio ads" [ref=f1e552] [cursor=pointer]:
+                - /url: /en-gb/solutions/products/audio-ads?ref_=a20m_us_fnav_p_aa
+            - menuitem [ref=f1e553]:
+              - link "Out-of-home ads" [ref=f1e554] [cursor=pointer]:
+                - /url: /en-gb/solutions/products/out-of-home?ref_=a20m_us_fnav_p_ooh
+            - menuitem [ref=f1e555]:
+              - link "View all" [ref=f1e556] [cursor=pointer]:
+                - /url: /en-gb/products?ref_=a20m_us_fnav_p_all
+        - menuitem [ref=f1e557]:
+          - menu [ref=f1e558]:
+            - menuitem [ref=f1e559]:
+              - link "Insights and planning" [ref=f1e560] [cursor=pointer]:
+                - /url: /en-gb/insights-and-planning?ref_=a20m_us_fnav_p_ip
+            - menuitem [ref=f1e561]:
+              - link "Audience insights" [ref=f1e562] [cursor=pointer]:
+                - /url: /en-gb/insights-and-planning/audiences?ref_=a20m_us_fnav_p_ip_aud
+            - menuitem [ref=f1e563]:
+              - link "Media planning" [ref=f1e564] [cursor=pointer]:
+                - /url: /en-gb/insights-and-planning/media-planning?ref_=a20m_us_fnav_p_ip_mp
+            - menuitem [ref=f1e565]:
+              - link "Creative solutions" [ref=f1e566] [cursor=pointer]:
+                - /url: /en-gb/creative-solutions?ref_=a20m_us_fnav_p_crtv
+            - menuitem [ref=f1e567]:
+              - link "Creative enhancements" [ref=f1e568] [cursor=pointer]:
+                - /url: /en-gb/creative-solutions/enhancements?ref_=a20m_us_fnav_p_crtv_enh
+            - menuitem [ref=f1e569]:
+              - link "Creative services" [ref=f1e570] [cursor=pointer]:
+                - /url: /en-gb/creative-solutions/services?ref_=a20m_us_fnav_p_crtv_serv
+            - menuitem [ref=f1e571]:
+              - link "Creative tools" [ref=f1e572] [cursor=pointer]:
+                - /url: /en-gb/creative-solutions/tools?ref_=a20m_us_fnav_p_crtv_tls
+            - menuitem [ref=f1e573]:
+              - link "Measurement and analytics" [ref=f1e574] [cursor=pointer]:
+                - /url: /en-gb/measurement-analytics?ref_=a20m_us_fnav_p_mea
+            - menuitem [ref=f1e575]:
+              - link "Amazon Brand Lift" [ref=f1e576] [cursor=pointer]:
+                - /url: /en-gb/measurement-analytics/brand-lift?ref_=a20m_us_fnav_p_mea_bl
+            - menuitem [ref=f1e577]:
+              - link "Amazon Marketing Stream" [ref=f1e578] [cursor=pointer]:
+                - /url: /en-gb/solutions/products/amazon-marketing-stream?ref_=a20m_us_fnav_p_mea_ams
+            - menuitem [ref=f1e579]:
+              - link "Campaign reporting" [ref=f1e580] [cursor=pointer]:
+                - /url: /en-gb/measurement-analytics/campaign-reporting?ref_=a20m_us_fnav_p_mea_cr
+            - menuitem [ref=f1e581]:
+              - link "Omnichannel Metrics" [ref=f1e582] [cursor=pointer]:
+                - /url: /en-gb/measurement-analytics/omnichannel-metrics?ref_=a20m_us_fnav_p_mea_ocm
+            - menuitem [ref=f1e583]:
+              - link "Rapid retail analytics" [ref=f1e584] [cursor=pointer]:
+                - /url: /en-gb/measurement-analytics/rapid-retail-analytics?ref_=a20m_us_fnav_p_mea_rra
+            - menuitem [ref=f1e585]:
+              - link "Technology and services" [ref=f1e586] [cursor=pointer]:
+                - /url: /en-gb/adtech-solutions?ref_=a20m_us_fnav_p_tech
+            - menuitem [ref=f1e587]:
+              - link "Amazon DSP" [ref=f1e588] [cursor=pointer]:
+                - /url: /en-gb/solutions/products/amazon-dsp?ref_=a20m_us_fnav_p_tech_dsp
+            - menuitem [ref=f1e589]:
+              - link "Amazon Marketing Cloud" [ref=f1e590] [cursor=pointer]:
+                - /url: /en-gb/solutions/products/amazon-marketing-cloud?ref_=a20m_us_fnav_p_tech_amc
+            - menuitem [ref=f1e591]:
+              - link "Amazon Ads API" [ref=f1e592] [cursor=pointer]:
+                - /url: /en-gb/about-api?ref_=a20m_us_fnav_p_tech_api
+            - menuitem [ref=f1e593]:
+              - link "Amazon Publisher Services" [ref=f1e594] [cursor=pointer]:
+                - /url: https://aps.amazon.com/?ref_=a20m_us_fnav_p_tech_aps
+            - menuitem [ref=f1e595]:
+              - link "Amazon Retail Ad Service" [ref=f1e596] [cursor=pointer]:
+                - /url: /en-gb/retail-ad-service?ref_=a20m_us_fnav_p_tech_ras
+            - menuitem [ref=f1e597]:
+              - link "New Product Campaigns" [ref=f1e598] [cursor=pointer]:
+                - /url: /en-gb/solutions/products/new-product-campaigns?ref_=a20m_us_fnav_p_tech_npc
+            - menuitem [ref=f1e599]:
+              - link "Ads Agent" [ref=f1e600] [cursor=pointer]:
+                - /url: /en-gb/solutions/products/ads-agent?ref_=a20m_us_fnav_p_tech_adagt
+        - menuitem [ref=f1e601]:
+          - menu [ref=f1e602]:
+            - menuitem [ref=f1e603]:
+              - link "Industries" [ref=f1e604] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries?ref_=a20m_us_fnav_ind
+            - menuitem [ref=f1e605]:
+              - link "Automotive" [ref=f1e606] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/automotive-marketing?ref_=a20m_us_fnav_ind_auto
+            - menuitem [ref=f1e607]:
+              - link "Beauty" [ref=f1e608] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/beauty?ref_=a20m_us_fnav_ind_bty
+            - menuitem [ref=f1e609]:
+              - link "Consumer electronics" [ref=f1e610] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/consumer-electronics?ref_=a20m_us_fnav_ind_elc
+            - menuitem [ref=f1e611]:
+              - link "Entertainment" [ref=f1e612] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/entertainment?ref_=a20m_us_fnav_ind_etnm
+            - menuitem [ref=f1e613]:
+              - link "Fashion" [ref=f1e614] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/fashion-marketing?ref_=a20m_us_fnav_ind_fshn
+            - menuitem [ref=f1e615]:
+              - link "Financial services" [ref=f1e616] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/financial-services-marketing?ref_=a20m_us_fnav_ind_finsrv
+            - menuitem [ref=f1e617]:
+              - link "Grocery" [ref=f1e618] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/grocery-marketing?ref_=a20m_us_fnav_ind_grcry
+            - menuitem [ref=f1e619]:
+              - link "Health and personal care" [ref=f1e620] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/health-and-personal-care-marketing?ref_=a20m_us_fnav_ind_hpc
+            - menuitem [ref=f1e621]:
+              - link "Home goods and furniture" [ref=f1e622] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/furniture-marketing?ref_=a20m_us_fnav_ind_furn
+            - menuitem [ref=f1e623]:
+              - link "Home improvement" [ref=f1e624] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/home-improvement-marketing?ref_=a20m_us_fnav_ind_hmimprv
+            - menuitem [ref=f1e625]:
+              - link "Publishing" [ref=f1e626] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/book-ads?ref_=a20m_us_fnav_ind_pblshng
+            - menuitem [ref=f1e627]:
+              - link "Telecom" [ref=f1e628] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/telecom-marketing?ref_=a20m_us_fnav_ind_telecom
+            - menuitem [ref=f1e629]:
+              - link "Toys and games" [ref=f1e630] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/toys-and-games-marketing?ref_=a20m_us_fnav_ind_tys
+            - menuitem [ref=f1e631]:
+              - link "Travel" [ref=f1e632] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/travel-marketing?ref_=a20m_us_fnav_ind_trvl
+            - menuitem [ref=f1e633]:
+              - link "Channels" [ref=f1e634] [cursor=pointer]:
+                - /url: /en-gb/channels?ref_=a20m_us_fnav_p_chn
+        - menuitem [ref=f1e635]:
+          - menu [ref=f1e636]:
+            - menuitem "Learn" [ref=f1e637]
+            - menuitem [ref=f1e638]:
+              - link "Amazon Ads Academy" [ref=f1e639] [cursor=pointer]:
+                - /url: https://advertising.amazon.com/academy?ref_=a20m_us_fnav_aaa
+            - menuitem [ref=f1e640]:
+              - link "Product announcements" [ref=f1e641] [cursor=pointer]:
+                - /url: /en-gb/resources/whats-new?ref_=a20m_us_fnav_wn
+            - menuitem [ref=f1e642]:
+              - link "Resources" [ref=f1e643] [cursor=pointer]:
+                - /url: /en-gb/resources/library?ref_=a20m_us_fnav_rs
+            - menuitem [ref=f1e644]:
+              - link "Ad specs and policies" [ref=f1e645] [cursor=pointer]:
+                - /url: /en-gb/resources/ad-specs?ref_=a20m_us_fnav_spcs
+            - menuitem [ref=f1e646]:
+              - link "FAQ" [ref=f1e647] [cursor=pointer]:
+                - /url: /en-gb/resources/faq?ref_=a20m_us_fnav_faq
+            - menuitem [ref=f1e648]:
+              - link "News and announcements" [ref=f1e649] [cursor=pointer]:
+                - /url: /en-gb/library/newsroom?ref_=a20m_us_fnav_nrm
+            - menuitem "Partners" [ref=f1e650]
+            - menuitem [ref=f1e651]:
+              - link "Find a partner" [ref=f1e652] [cursor=pointer]:
+                - /url: /en-gb/partners/directory?ref_=a20m_us_fnav_prtdrct
+            - menuitem [ref=f1e653]:
+              - link "Become a partner" [ref=f1e654] [cursor=pointer]:
+                - /url: /en-gb/partners/network?ref_=a20m_us_fnav_prtnet
+      - generic [ref=f1e655]:
+        - generic [ref=f1e656]:
+          - link "About us|" [ref=f1e657] [cursor=pointer]:
+            - /url: /about-us?ref_=a20m_us_fnav_abtus
+          - link "Conditions of Use & Sale|" [ref=f1e658] [cursor=pointer]:
+            - /url: /legal/conditions?ref_=a20m_us_fnav_l_cndtns
+          - link "Privacy Notice|" [ref=f1e659] [cursor=pointer]:
+            - /url: /legal/privacy-notice?ref_=a20m_us_fnav_l_prvcy
+          - link "Interest-based ads|" [ref=f1e660] [cursor=pointer]:
+            - /url: /legal/interest-based-ads?ref_=a20m_us_fnav_l_intrst
+          - link "Cookie Notice|" [ref=f1e661] [cursor=pointer]:
+            - /url: /legal/cookie-notice?ref_=a20m_us_fnav_l_cook
+          - link "Amazon Ads Status|" [ref=f1e662] [cursor=pointer]:
+            - /url: https://status.ads.amazon.com?ref_=a20m_us_fnav_status
+          - link "Careers" [ref=f1e663] [cursor=pointer]:
+            - /url: /careers?ref_=a20m_us_fnav_l_cars
+        - list [ref=f1e665]:
+          - listitem [ref=f1e666]:
+            - link "LinkedIn" [ref=f1e667] [cursor=pointer]:
+              - /url: https://www.linkedin.com/showcase/amazonadvertising/about/
+              - img "LinkedIn" [ref=f1e668]
+          - listitem [ref=f1e670]:
+            - link "twitter" [ref=f1e671] [cursor=pointer]:
+              - /url: https://twitter.com/AmazonAds/
+              - img "twitter" [ref=f1e672]
+          - listitem [ref=f1e674]:
+            - link "instagram" [ref=f1e675] [cursor=pointer]:
+              - /url: https://www.instagram.com/amazonads/
+              - img "instagram" [ref=f1e676]
+          - listitem [ref=f1e678]:
+            - link "youtube" [ref=f1e679] [cursor=pointer]:
+              - /url: https://www.youtube.com/amazonadvertising/
+              - img "youtube" [ref=f1e680]
+          - listitem [ref=f1e682]:
+            - link "facebook" [ref=f1e683] [cursor=pointer]:
+              - /url: https://www.facebook.com/AmazonAds/
+              - img "facebook" [ref=f1e684]
+      - generic [ref=f1e687]:
+        - link [ref=f1e689] [cursor=pointer]:
+          - /url: /
+          - img "Amazon Ads logo" [ref=f1e690]
+        - generic [ref=f1e691]: © Copyright 2015–2026, Amazon

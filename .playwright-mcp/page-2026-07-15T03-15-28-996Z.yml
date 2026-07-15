@@ -1,0 +1,124 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - banner [ref=e4]:
+      - link [ref=e7] [cursor=pointer]:
+        - /url: "#"
+        - img "Amazon Ads" [ref=e8]
+  - main [ref=e18]:
+    - generic [ref=e21]:
+      - generic [ref=e28]:
+        - heading "Full-funnel advertising. At scale. For everyone." [level=1] [ref=e32]: Full-funnel advertising.At scale. For everyone.
+        - heading "Amazon Ads helps you reach customers at scale through full-funnel advertising across streaming, shopping and everything in between." [level=2] [ref=e37]
+        - link "Link to sign in" [ref=e40] [cursor=pointer]:
+          - /url: https://advertising.amazon.com/sign-in?ref_=a20m_us_gw_df_z1_sgn
+          - generic [ref=e41]: Sign in
+        - link "Register" [ref=e44] [cursor=pointer]:
+          - /url: https://advertising.amazon.com/register?ref_=a20m_us_gw_df_z1_rgstr
+          - generic [ref=e45]: Don’t have an account? Register
+      - generic [ref=e51]:
+        - generic [ref=e53]:
+          - paragraph [ref=e55]: Spotlight
+          - heading "What's new with Amazon Ads" [level=2] [ref=e57]:
+            - generic [ref=e58]: What's
+            - generic [ref=e59]: new
+            - text: with Amazon Ads
+          - paragraph [ref=e61]: Stay up-to-date with the latest announcements and insights.
+        - generic [ref=e64]:
+          - img "Two smiling people sitting on a white sofa against a blue background, one holding a beverage glass and the other holding a remote control, both looking up with joyful expressions" [ref=e69]
+          - generic [ref=e71]:
+            - paragraph [ref=e73]: Event
+            - paragraph [ref=e75]: news
+            - heading "Amazon introduces Alexa+ Agentic Ads" [level=3] [ref=e77]
+            - paragraph [ref=e79]: "Alexa+ Agentic Ads let shoppers complete purchases entirely within a conversation: the first ad format that takes a customer from seeing an ad to completing a purchase without ever leaving the ad."
+            - link "Get the details" [ref=e82] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/library/news/alexa-agentic-ads?ref_=a20m_us_gw_df_z2_nws_alxagad
+      - generic [ref=e88]:
+        - generic [ref=e90]:
+          - paragraph [ref=e92]: Goals
+          - heading "Expand your audience and grow your brand" [level=2] [ref=e94]
+        - generic [ref=e99]:
+          - img "Reach icon" [ref=e102]
+          - heading "Products to help you reach more customers" [level=3] [ref=e104]:
+            - text: Products to help you
+            - generic [ref=e105]: reach more customers
+          - paragraph [ref=e107]: Connect your brand with audiences across streaming TV, display and video, with solutions designed to meet them wherever they are.
+          - link "Learn more" [ref=e110] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/objectives/reach-more-customers?ref_=a20m_us_gw_df_z3_rmc
+      - generic [ref=e120]:
+        - generic [ref=e122]:
+          - paragraph [ref=e124]: Solutions
+          - heading "Advanced technology, powerful insights" [level=2] [ref=e126]:
+            - text: Advanced technology,
+            - generic [ref=e127]: powerful insights
+        - generic [ref=e130]:
+          - generic [ref=e132]:
+            - heading "Reach customers alongside content they love with streaming TV ads" [level=3] [ref=e134]
+            - paragraph [ref=e136]: With first-party audiences built from real-time shopping and streaming signals, you can connect with the right viewers across Prime Video, Twitch and beyond, plus interactive features let them browse and shop while they watch.
+            - link "Amazon Marketing Cloud" [ref=e139] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/solutions/products/streaming-tv-ads?ref_=a20m_us_gw_df_z4_p_stv
+              - generic [ref=e140]: Discover what’s possible
+          - img "Amazon Marketing Cloud" [ref=e145]
+      - generic [ref=e150]:
+        - generic [ref=e152]:
+          - paragraph [ref=e154]: DISCOVER
+          - heading "Learn more. Go further." [level=2] [ref=e156]
+        - generic [ref=e159]:
+          - generic [ref=e161]:
+            - img "speech bubble icon" [ref=e164]
+            - heading "About us" [level=3] [ref=e166]
+            - link [ref=e169] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/about-us?ref_=a20m_us_gw_df_z7_ingress_abtus
+          - generic [ref=e175]:
+            - img "book icon" [ref=e178]
+            - heading "Resources" [level=3] [ref=e180]
+            - link [ref=e183] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/resources/library?ref_=a20m_us_gw_df_z7_ingress_lbr
+          - generic [ref=e189]:
+            - img "hat icon" [ref=e192]
+            - heading "Amazon Ads Academy" [level=3] [ref=e194]
+            - link [ref=e197] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/academy?ref_=a20m_us_gw_df_z7_ingress_aaa
+          - generic [ref=e203]:
+            - img "Amazon DSP icon" [ref=e206]
+            - heading "Ad products and formats" [level=3] [ref=e208]
+            - link [ref=e211] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/products?ref_=a20m_us_gw_df_z7_ingress_p_c
+          - generic [ref=e217]:
+            - img "A microphone icon" [ref=e220]
+            - heading "Product announcements" [level=3] [ref=e222]
+            - link [ref=e225] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/resources/whats-new?ref_=a20m_us_gw_df_z7_ingress_wn
+          - generic [ref=e231]:
+            - img "smartphone icon" [ref=e234]
+            - heading "News and announcements" [level=3] [ref=e236]
+            - link [ref=e239] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/library/newsroom?ref_=a20m_us_gw_df_z7_ingress_nrm
+      - generic [ref=e248]:
+        - generic [ref=e250]:
+          - heading "Frequently asked questions" [level=2] [ref=e254]
+          - paragraph [ref=e256]: Find answers to common questions about advertising with Amazon Ads.
+        - generic [ref=e259]:
+          - generic [ref=e261]:
+            - generic [ref=e262] [cursor=pointer]:
+              - generic [ref=e263]: What is Amazon Ads?
+              - img "Open" [ref=e264]
+            - paragraph [ref=e270]: Amazon Ads offers easy-to-use, self-service advertising solutions, like sponsored ads and Brand Stores, designed for businesses of all sizes. With Amazon Ads, you can reach millions of customers where they shop on Amazon, with shopping insights to help increase product visibility and drive sales. Our flexible options let you start advertising with any budget.
+          - generic [ref=e273] [cursor=pointer]:
+            - generic [ref=e274]: How does Amazon Ads work?
+            - img "close" [ref=e275]
+          - generic [ref=e281] [cursor=pointer]:
+            - generic [ref=e282]: How much do Amazon Ads solutions cost?
+            - img "close" [ref=e283]
+          - generic [ref=e289] [cursor=pointer]:
+            - generic [ref=e290]: How do I get started with Amazon Ads?
+            - img "close" [ref=e291]
+          - generic [ref=e297] [cursor=pointer]:
+            - generic [ref=e298]: What reporting tools are available?
+            - img "close" [ref=e299]
+          - generic [ref=e305] [cursor=pointer]:
+            - generic [ref=e306]: How do I advertise if I don't sell on Amazon?
+            - img "close" [ref=e307]
+          - generic [ref=e313] [cursor=pointer]:
+            - generic [ref=e314]: How can I work with a partner?
+            - img "close" [ref=e315]
+  - contentinfo [ref=e319]

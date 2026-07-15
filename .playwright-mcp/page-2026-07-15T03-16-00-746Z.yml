@@ -1,0 +1,630 @@
+- generic [active] [ref=f3e1]:
+  - banner [ref=f3e2]:
+    - navigation [ref=f3e5]:
+      - link "Skip to main content" [ref=f3e6] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=f3e7]:
+        - link [ref=f3e8] [cursor=pointer]:
+          - /url: /en-gb/?ref_=logo
+          - img "Amazon Ads" [ref=f3e9]
+        - list [ref=f3e10]:
+          - listitem [ref=f3e11] [cursor=pointer]:
+            - link "Goals" [ref=f3e12]:
+              - /url: "#"
+          - listitem [ref=f3e13] [cursor=pointer]:
+            - link "Products" [ref=f3e14]:
+              - /url: "#"
+          - listitem [ref=f3e15] [cursor=pointer]:
+            - link "Channels" [ref=f3e16]:
+              - /url: "#"
+          - listitem [ref=f3e17] [cursor=pointer]:
+            - link "Measurement" [ref=f3e18]:
+              - /url: "#"
+          - listitem [ref=f3e19] [cursor=pointer]:
+            - link "Tools" [ref=f3e20]:
+              - /url: "#"
+          - listitem [ref=f3e21] [cursor=pointer]:
+            - link "Partners" [ref=f3e22]:
+              - /url: "#"
+          - listitem [ref=f3e23] [cursor=pointer]:
+            - link "Learn" [ref=f3e24]:
+              - /url: "#"
+      - list [ref=f3e26]:
+        - listitem [ref=f3e27] [cursor=pointer]:
+          - link "Search" [ref=f3e28]:
+            - /url: "#"
+        - listitem [ref=f3e29]:
+          - link "Sign in" [ref=f3e30] [cursor=pointer]:
+            - /url: /en-gb/sign-in?ref_=a20m_us_hnav_sgn
+        - listitem [ref=f3e31]:
+          - link "Register" [ref=f3e32] [cursor=pointer]:
+            - /url: /en-gb/register?ref_=a20m_us_hnav_rgstr
+  - main [ref=f3e33]:
+    - generic [ref=f3e36]:
+      - generic [ref=f3e39]:
+        - generic [ref=f3e41]:
+          - paragraph [ref=f3e43]: Technology and services
+          - heading "Amazon DSP" [level=1] [ref=f3e45]
+          - paragraph [ref=f3e47]: Delivering results through relevancy at scale, Amazon DSP is an omnichannel marketing solution that provides choice and flexibility to drive meaningful moments between brands and consumers.
+          - link "Register" [ref=f3e50] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/register?ref_=a20m_us_p_dsp_h_rgstr
+        - img "Illustration of hand clicking button connected to five orange light bulbs, representing Amazon DSP programmatic advertising solutions" [ref=f3e54]
+      - generic [ref=f3e59]:
+        - heading "Why Amazon DSP?" [level=2] [ref=f3e61]
+        - paragraph [ref=f3e63]: Amazon DSP stands out by prioritising both reach and privacy. It leverages unique first-party data and AI to deliver impactful ads even without traditional identifiers, ensuring your campaigns remain effective in a changing landscape. Additionally, its AI-powered automation streamlines campaign management and empowers advertisers with transparent reporting for data-driven decision-making. By combining privacy-centric clean rooms with streamlined workflows, Amazon DSP offers a comprehensive solution that unlocks deeper audience insights and optimises campaign performance.
+      - generic [ref=f3e66]:
+        - heading "What makes Amazon DSP different?" [level=2] [ref=f3e70]
+        - generic [ref=f3e73]:
+          - generic [ref=f3e75]:
+            - img "icon of desktop and mobile devices" [ref=f3e78]
+            - heading "Premium supply" [level=3] [ref=f3e80]
+            - paragraph [ref=f3e82]: Reach relevant customers across the largest supply of premium, ad-supported content wherever they’re spending their time across Amazon-exclusive properties like Prime Video, or across third-party supply through our direct integrations with publishers and leading supply-side platforms.
+          - generic [ref=f3e84]:
+            - img "icon of three people" [ref=f3e87]
+            - heading "Unique audience signals" [level=3] [ref=f3e89]
+            - paragraph [ref=f3e91]: Gain a better understanding of your audience and the best strategy to reach them with our unique signals powered by our expansive browsing, shopping and streaming insights. Through our propriety approach to deterministic and modelled audiences, Amazon DSP helps advertisers reach qualified users without relying on traditional ad identifiers.
+          - generic [ref=f3e93]:
+            - img "icon for AI-powered optimisation" [ref=f3e96]
+            - heading "AI-powered optimisation" [level=3] [ref=f3e98]
+            - paragraph [ref=f3e100]: Maximise return on investment with our AI-powered solution by leveraging first- and third-party insights to automate tasks and target relevant audiences on Amazon and across third-party apps, sites and devices.
+          - generic [ref=f3e102]:
+            - img "icon for interoperable technology marked with a tick" [ref=f3e105]
+            - heading "Interoperable technology" [level=3] [ref=f3e107]
+            - paragraph [ref=f3e109]: For more efficient end-to-end campaign management, interoperability between our systems (such as Amazon Web Services, Amazon Marketing Cloud, Amazon Publisher Cloud) and yours can eliminate fragmentation in the planning, buying and measurement journey.
+      - generic [ref=f3e112]:
+        - img "an image of an advertisement showing Jack &amp; Jill kids' sunscreen SPF 30 product image displayed on computer" [ref=f3e117]
+        - generic [ref=f3e119]:
+          - heading "What ads can I buy through Amazon DSP?" [level=2] [ref=f3e121]
+          - paragraph [ref=f3e123]:
+            - text: Engage your audience with a combination of
+            - link "audio" [ref=f3e125] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/solutions/products/audio-ads?ref_=a20m_us_p_dsp_p_aa
+            - text: ","
+            - link "display" [ref=f3e128] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/products/display-ads?ref_=a20m_us_p_dsp_p_da
+            - text: ","
+            - link "online video" [ref=f3e131] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/solutions/products/online-video-ads?ref_=a20m_us_p_dsp_p_olv
+            - text: ","
+            - link "Streaming TV" [ref=f3e134] [cursor=pointer]:
+              - /url: https://advertising.amazon.com/solutions/products/streaming-tv-ads?ref_=a20m_us_p_dsp_p_stv
+            - text: and physical store advertising. Reach audiences where they spend time across all formats and devices.
+      - generic [ref=f3e140]:
+        - heading "Where can my ads appear?" [level=2] [ref=f3e142]
+        - paragraph [ref=f3e144]:
+          - text: Your ads can appear in first-party supply sources like Amazon Originals on
+          - link "Prime Video" [ref=f3e145] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/products/prime-video-ads?ref_=a20m_us_p_dsp_chn_pva
+          - text: ", livestreams on"
+          - link "Twitch" [ref=f3e146] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/channels/twitch?ref_=a20m_us_p_dsp_chn_twtch
+          - text: ","
+          - link "live sports" [ref=f3e147] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/live-sports-on-prime?ref_=a20m_us_p_dsp_chn_ls
+          - text: including Thursday Night Football and Amazon.com. They can also appear on Amazon Fresh kiosks and connected devices such as
+          - link "Fire TV" [ref=f3e148] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/channels/twitch?ref_=a20m_us_p_dsp_chn_ftv
+          - text: ", Kindle and Alexa. In addition, Amazon DSP offers the ability for advertisers to activate on thousands of premium third-party sites and apps via Amazon Publisher Direct and leading third-party exchanges. (Availability may vary by region.)"
+      - generic [ref=f3e151]:
+        - generic [ref=f3e153]:
+          - paragraph [ref=f3e155]: SUCCESS STORIES
+          - heading "Amazon DSP case studies" [level=2] [ref=f3e157]
+        - generic [ref=f3e160]:
+          - link "Tinuiti and Skai help eos reach no. 1 Best Seller on Amazon" [ref=f3e163] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/library/case-studies/tinuiti-skai-eos-category-launch
+            - generic [ref=f3e165]:
+              - heading "Tinuiti and Skai help eos reach no. 1 Best Seller on Amazon" [level=3] [ref=f3e166]
+              - paragraph [ref=f3e167]: Discover how Tinuiti and Skai helped eos launch body mist on Amazon, achieving no. 1 Best Seller rank and 500% above ROAS goal through full-funnel collaboration.
+          - link "How Slalom and iProspect leveraged Amazon DSP and AMC" [ref=f3e174] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/library/case-studies/amazon-marketing-cloud-telcom-iprospect?ref_=a20m_us_p_dsp_cs_lbr_cs_prspct
+            - generic [ref=f3e176]:
+              - heading "How Slalom and iProspect leveraged Amazon DSP and AMC" [level=3] [ref=f3e177]
+              - paragraph [ref=f3e178]: With the help of Slalom, a large telecoms brand used their rich, first-party signals to reach new customers more effectively than ever before.
+          - link "Fly Emirates reaches US travellers with Streaming TV ads" [ref=f3e185] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/library/case-studies/fly-emirates-reaches-us-travelers?ref_=a20m_us_p_dsp_cs_lbr_cs_emrts
+            - generic [ref=f3e187]:
+              - heading "Fly Emirates reaches US travellers with Streaming TV ads" [level=3] [ref=f3e188]
+              - paragraph [ref=f3e189]: Discover how the airline Emirates reached US travellers with the power of Amazon DSP through Streaming TV, digital and audio ads.
+      - generic [ref=f3e196]:
+        - generic [ref=f3e198]:
+          - paragraph [ref=f3e200]: RESOURCES
+          - heading "Additional Amazon DSP resources" [level=2] [ref=f3e202]
+          - link "View all Amazon DSP articles" [ref=f3e205] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/resources/library?subpageType=Education&relatedProducts=Amazon%20DSP&ref_=a20m_us_p_dsp_rs_blg_alldsp#I1
+        - generic [ref=f3e209]:
+          - link "Amazon Ads is named a leader in omnichannel DSPs in The Forrester WaveTM" [ref=f3e212] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/library/news/forrester?ref_=a20m_us_p_dsp_rs_lbr_nws_frstr
+            - generic [ref=f3e214]:
+              - paragraph
+              - heading "Amazon Ads is named a leader in omnichannel DSPs in The Forrester WaveTM" [level=3] [ref=f3e215]
+          - link "Increase campaign relevance with advertiser hashed audiences" [ref=f3e222] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/blog/advertiser-audiences?ref_=a20m_us_p_dsp_rs_blg_hshdaud
+            - generic [ref=f3e224]:
+              - paragraph
+              - heading "Increase campaign relevance with advertiser hashed audiences" [level=3] [ref=f3e225]
+          - link "The future of addressability and advertising technology" [ref=f3e232] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/library/news/vision-future-of-addressability-and-advertising-technology?ref_=a20m_us_p_dsp_rs_lbr_nws_ftraddrsblty
+            - generic [ref=f3e234]:
+              - paragraph
+              - heading "The future of addressability and advertising technology" [level=3] [ref=f3e235]
+          - link "What is AdTech and why is it important?" [ref=f3e242] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/library/guides/what-is-adtech?ref_=a20m_us_p_dsp_rs_lbr_gd_adtch
+            - generic [ref=f3e244]:
+              - paragraph
+              - heading "What is AdTech and why is it important?" [level=3] [ref=f3e245]
+      - generic [ref=f3e252]:
+        - generic [ref=f3e254]:
+          - paragraph [ref=f3e256]: Amazon Ads Academy
+          - heading "Amazon DSP educational resources" [level=2] [ref=f3e258]
+        - generic [ref=f3e261]:
+          - link "Amazon DSP Certification" [ref=f3e264] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/academy/student/path/1532/amazon-dsp-certification?ref_=a20m_us_p_dsp_rs_lc_dspcert&activeLocale=en-us
+            - generic [ref=f3e265]:
+              - generic [ref=f3e266]:
+                - generic [ref=f3e267]: Certification
+                - heading "Amazon DSP Certification" [level=3] [ref=f3e283]
+                - generic [ref=f3e284]: The course topics include Amazon DSP audience solutions, supply quality, campaign setup, supply, ad policy and campaign performance and optimisation.
+              - generic [ref=f3e285]: Beginner4h 2m
+          - link "Amazon DSP advanced certification" [ref=f3e295] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/academy/student/path/6635/amazon-dsp-advanced-certification?ref_=a20m_us_p_dsp_rs_lc_advcert&activeLocale=en-us
+            - generic [ref=f3e296]:
+              - generic [ref=f3e297]:
+                - generic [ref=f3e298]: Certification
+                - heading "Amazon DSP advanced certification" [level=3] [ref=f3e314]
+                - generic [ref=f3e315]: The course topics include bid strategies, conversion tracking, audiences, third-party integrations, private marketplace deals, attribution and bulksheets.
+              - generic [ref=f3e316]: Advanced4h 32m
+      - generic [ref=f3e331]:
+        - heading "Get started with Amazon DSP" [level=2] [ref=f3e333]:
+          - generic [ref=f3e334]: Get started
+          - text: with Amazon DSP
+        - paragraph [ref=f3e336]:
+          - text: Connect your brand with customers. Register today or
+          - link "contact an Amazon Ads account executive" [ref=f3e338] [cursor=pointer]:
+            - /url: https://advertising.amazon.com/contact-sales?ref_=a20m_us_p_dsp_gs_cntct
+          - text: to learn more.
+        - link "Register" [ref=f3e342] [cursor=pointer]:
+          - /url: https://advertising.amazon.com/register?ref_=a20m_us_p_dsp_gs_rgstr
+        - heading "Already have an Amazon DSP account?" [level=3] [ref=f3e347]
+        - link [ref=f3e350] [cursor=pointer]:
+          - /url: https://advertising.amazon.com/sign-in?ref_=a20m_us_p_dsp_gs_sgn
+      - generic [ref=f3e357]:
+        - generic [ref=f3e359]:
+          - img "illustration of person holding a magnifying glass" [ref=f3e362]
+          - heading "Frequently asked questions, answered" [level=3] [ref=f3e364]: Frequently askedquestions, answered
+        - generic [ref=f3e367]:
+          - generic [ref=f3e369]:
+            - generic [ref=f3e370] [cursor=pointer]:
+              - generic [ref=f3e371]: Who can use Amazon DSP?
+              - img "Open" [ref=f3e372]
+            - generic [ref=f3e376]:
+              - paragraph [ref=f3e378]: Amazon DSP is available to brand advertisers, ad agencies and tool providers. It is available to both advertisers who sell products on Amazon and those who do not.
+              - generic [ref=f3e380]:
+                - generic [ref=f3e381]:
+                  - generic [ref=f3e382]: North America
+                  - list [ref=f3e383]:
+                    - listitem [ref=f3e384]: CA
+                    - listitem [ref=f3e385]: MX
+                    - listitem [ref=f3e386]: US
+                - generic [ref=f3e387]:
+                  - generic [ref=f3e388]: South America
+                  - list [ref=f3e389]:
+                    - listitem [ref=f3e390]: BR
+                - generic [ref=f3e391]:
+                  - generic [ref=f3e392]: Europe
+                  - list [ref=f3e393]:
+                    - listitem [ref=f3e394]: DE
+                    - listitem [ref=f3e395]: ES
+                    - listitem [ref=f3e396]: FR
+                    - listitem [ref=f3e397]: IT
+                    - listitem [ref=f3e398]: NL
+                    - listitem [ref=f3e399]: PL
+                    - listitem [ref=f3e400]: SE
+                    - listitem [ref=f3e401]: TR
+                    - listitem [ref=f3e402]: UK
+                - generic [ref=f3e403]:
+                  - generic [ref=f3e404]: Middle East
+                  - list [ref=f3e405]:
+                    - listitem [ref=f3e406]: KSA
+                    - listitem [ref=f3e407]: UAE
+                - generic [ref=f3e408]:
+                  - generic [ref=f3e409]: Asia Pacific
+                  - list [ref=f3e410]:
+                    - listitem [ref=f3e411]: AU
+                    - listitem [ref=f3e412]: IN
+                    - listitem [ref=f3e413]: JP
+                    - listitem [ref=f3e414]: SG
+          - generic [ref=f3e416]:
+            - generic [ref=f3e417] [cursor=pointer]:
+              - generic [ref=f3e418]: What is a DSP (demand-side platform)?
+              - img "Open" [ref=f3e419]
+            - paragraph [ref=f3e425]:
+              - text: A
+              - link "demand-side platform (DSP)" [ref=f3e426] [cursor=pointer]:
+                - /url: https://advertising.amazon.com/library/guides/demand-side-platform?ref_=a20m_us_p_dsp_faq_lbr_gd_dsp
+              - text: is a tool that automates and centralises
+              - link "media buying" [ref=f3e427] [cursor=pointer]:
+                - /url: https://advertising.amazon.com/library/guides/media-buying?ref_=a20m_us_p_dsp_faq_lbr_gd_mdby
+              - text: from multiple sources, streamlining the process for greater efficiency and reach.
+          - generic [ref=f3e429]:
+            - generic [ref=f3e430] [cursor=pointer]:
+              - generic [ref=f3e431]: How can I get started?
+              - img "open" [ref=f3e432]
+            - generic [ref=f3e436]:
+              - paragraph [ref=f3e438]: "We offer two options to get started: self-service and managed-service."
+              - list [ref=f3e440]:
+                - listitem [ref=f3e441]:
+                  - text: Self-service customers are in full control of their campaigns. Start by either
+                  - link [ref=f3e442] [cursor=pointer]:
+                    - /url: https://advertising.amazon.com/register?ref_=a20m_us_p_dsp_faq_rgstr
+                    - strong [ref=f3e444]: creating a new account
+                  - text: or
+                  - link [ref=f3e445] [cursor=pointer]:
+                    - /url: https://advertising.amazon.com/sign-in?ref_=a20m_us_p_dsp_faq_sgn
+                    - strong [ref=f3e447]: sign in
+                  - text: if you’re an existing user.
+                - listitem [ref=f3e448]:
+                  - text: The managed-service option is designed for advertisers that want access to Amazon DSP inventory, with consultative service or for those with limited programmatic advertising experience. The managed-service option typically requires a minimum spend of USD $50,000 (minimum may vary per country).
+                  - link [ref=f3e449] [cursor=pointer]:
+                    - /url: https://advertising.amazon.com/contact-sales?ref_=a20m_us_p_dsp_faq_cntct
+                    - strong [ref=f3e451]: Contact an Amazon Ads account executive
+                  - text: for more information.
+          - generic [ref=f3e453]:
+            - generic [ref=f3e454] [cursor=pointer]:
+              - generic [ref=f3e455]: I don’t sell on Amazon. Can I still use Amazon DSP?
+              - img "open" [ref=f3e456]
+            - paragraph [ref=f3e462]: Yes, you can use Amazon DSP even if you don’t sell on Amazon. Amazon DSP is designed to help advertisers reach audiences both on Amazon and beyond. It offers advanced targeting capabilities using Amazon’s rich first-party signals, enabling you to reach specific demographics, behaviours, contextually relevant products and categories, keywords and interests across the web. This means you can place ads on Amazon-owned properties like Prime Video, IMDb and Twitch, and across a wide range of premium third-party publishers.Whether your goal is to drive brand awareness, consideration or conversion, Amazon DSP provides the tools and insights needed to effectively reach relevant audiences and achieve your advertising objectives.
+          - generic [ref=f3e464]:
+            - generic [ref=f3e465] [cursor=pointer]:
+              - generic [ref=f3e466]: What types of audience targeting capabilities are offered through Amazon DSP?
+              - img "open" [ref=f3e467]
+            - paragraph [ref=f3e473]:
+              - text: "Amazon DSP offers audience targeting in three main categories: 1)"
+              - link "Amazon Audiences" [ref=f3e474] [cursor=pointer]:
+                - /url: https://advertising.amazon.com/insights-and-planning/audiences?ref_=a20m_us_p_dsp_faq_p_ip_aud
+              - text: ", based on first-party buying, browsing and streaming signals; 2) advertiser audiences, driven by custom inputs like product relevance and remarketing; 3) third-party audiences, sourced from broader internet activities, such as car purchases or cable subscriptions, to name a few."
+          - generic [ref=f3e476]:
+            - generic [ref=f3e477] [cursor=pointer]:
+              - generic [ref=f3e478]: How does Amazon DSP approach addressability in advertising campaigns?
+              - img "open" [ref=f3e479]
+            - paragraph [ref=f3e485]:
+              - text: Over the past two years, Amazon Ads has been innovating to reduce reliance on less durable signals.
+              - link "Ad Relevance" [ref=f3e486] [cursor=pointer]:
+                - /url: https://advertising.amazon.com/blog/vision-future-of-addressability-and-advertising-technology?ref_=a20m_us_p_dsp_faq_blg_addrssblty
+              - text: "marks a shift in how we deliver relevant ads, using more signals and the latest in AWS-powered AI. Instead of replacing third-party cookies with another signal, Ad Relevance introduces innovations across three areas: leveraging AI-powered targeting strategies to enhance relevancy; collaborating with industry leaders to improve consumer reach across all supply; and investing in our measurement products to ensure they are more durable and customer-centric, with a focus on holistic cross-channel impact."
+          - generic [ref=f3e488]:
+            - generic [ref=f3e489] [cursor=pointer]:
+              - generic [ref=f3e490]: How can Amazon DSP help design my media planning to align with specific objectives?
+              - img "open" [ref=f3e491]
+            - paragraph [ref=f3e497]:
+              - text: Amazon DSP provides an integrated
+              - link "media planning suite" [ref=f3e498] [cursor=pointer]:
+                - /url: https://advertising.amazon.com/insights-and-planning/media-planning?ref_=a20m_us_p_dsp_faq_p_ip_mp
+              - text: with tools like cross-channel planner and channel planner that help optimally allocate media across Amazon DSP supply and simulate reach and budget in real-time based on live inventory by linear TV vs. streaming TV vs. audio. Once campaign success is measured, we integrate the insights in the next cycle of campaign planning.
+          - generic [ref=f3e500]:
+            - generic [ref=f3e501] [cursor=pointer]:
+              - generic [ref=f3e502]: What programmatic media buying options are available?
+              - img "open" [ref=f3e503]
+            - paragraph [ref=f3e509]:
+              - text: Amazon DSP offers
+              - link "real-time bidding (RTB)" [ref=f3e510] [cursor=pointer]:
+                - /url: https://advertising.amazon.com/library/guides/real-time-bidding?ref_=a20m_us_p_dsp_faq_lbr_gd_rtb
+              - text: ", private marketplaces (PMP), private auction and programmatic guaranteed buying, along with a variety of deals-based options. For easier inventory discovery,"
+              - link "inventory hub" [ref=f3e511] [cursor=pointer]:
+                - /url: https://advertising.amazon.com/resources/whats-new/improve-entire-lifecycle-of-deals-with-inventory-hub?ref_=a20m_us_p_dsp_faq_rs_wn_invhub
+              - text: centralises all deals across Amazon properties and third-party inventory, allowing advertisers to more easily discover, manage and analyse the right opportunities to meet campaign objectives.
+          - generic [ref=f3e513]:
+            - generic [ref=f3e514] [cursor=pointer]:
+              - generic [ref=f3e515]: Can I use standard IAB creative sizes, or do I need to design my own ads?
+              - img "open" [ref=f3e516]
+            - paragraph [ref=f3e522]:
+              - text: You have the flexibility to use IAB standard creative sizes, create your own custom ads or use our exclusive Amazon creative options, such as e-commerce creative templates.
+              - link "E-commerce creatives" [ref=f3e523] [cursor=pointer]:
+                - /url: https://advertising.amazon.com/resources/ad-specs/ecommerce?ref_=a20m_us_p_dsp_faq_spcs_ecomm
+              - text: can include an image you provide or a product image found on your product detail page. Various elements are automatically generated to drive the best performance for your e-commerce creative and the end customer.
+          - generic [ref=f3e525]:
+            - generic [ref=f3e526] [cursor=pointer]:
+              - generic [ref=f3e527]: How do I measure the performance of my campaigns?
+              - img "open" [ref=f3e528]
+            - paragraph [ref=f3e534]:
+              - text: Campaign reporting includes
+              - link "industry-standard metrics" [ref=f3e535] [cursor=pointer]:
+                - /url: https://advertising.amazon.com/blog/marketing-metrics?ref_=a20m_us_p_dsp_faq_blg_mm
+              - text: and Amazon-proprietary metrics such as detail page view rate (DPVR), add-to-list (ATL) counts and new-to-brand (NTB) metrics, along with
+              - link "reach" [ref=f3e536] [cursor=pointer]:
+                - /url: https://advertising.amazon.com/library/guides/marketing-reach?ref_=a20m_us_p_dsp_faq_lbr_gd_mktrch
+              - text: ","
+              - link "frequency" [ref=f3e537] [cursor=pointer]:
+                - /url: https://advertising.amazon.com/library/guides/frequency-capping
+              - text: and
+              - link "viewability" [ref=f3e538] [cursor=pointer]:
+                - /url: https://advertising.amazon.com/library/guides/viewability?ref_=a20m_us_p_dsp_faq_lbr_gd_vwblty
+              - text: metrics. Eligible advertisers can also employ third-party measurement solutions, such as
+              - link "brand lift studies" [ref=f3e539] [cursor=pointer]:
+                - /url: https://advertising.amazon.com/measurement-analytics/brand-lift?ref_=a20m_us_p_dsp_faq_p_mea_bl
+              - text: and offline sales lift insights.
+          - generic [ref=f3e541]:
+            - generic [ref=f3e542] [cursor=pointer]:
+              - generic [ref=f3e543]: How can I better understand omnichannel impact?
+              - img "open" [ref=f3e544]
+            - paragraph [ref=f3e550]:
+              - text: In addition to our standard campaign reporting metrics, we provide
+              - link "measurement solutions" [ref=f3e551] [cursor=pointer]:
+                - /url: https://advertising.amazon.com/measurement-analytics?ref_=a20m_us_p_dsp_faq_p_mea
+              - text: to help you better understand holistic impact, such as
+              - link "Omnichannel Metrics (OCM)" [ref=f3e552] [cursor=pointer]:
+                - /url: https://advertising.amazon.com/measurement-analytics/omnichannel-metrics?ref_=a20m_us_p_dsp_faq_p_mea_ocm
+              - text: and
+              - link "Marketing Mix Modeling (MMM)" [ref=f3e553] [cursor=pointer]:
+                - /url: https://advertising.amazon.com/resources/whats-new/self-service-marketing-mix-model?ref_=a20m_us_p_dsp_faq_wn_mmm
+              - text: . You can also conduct custom analytics across your Amazon DSP campaigns using event-level data sets in
+              - link "Amazon Marketing Cloud" [ref=f3e554] [cursor=pointer]:
+                - /url: https://advertising.amazon.com/solutions/products/amazon-marketing-cloud?ref_=a20m_us_p_dsp_faq_p_amc
+              - text: .
+      - generic [ref=f3e567]:
+        - generic [ref=f3e568]:
+          - generic [ref=f3e569]: Was this content helpful?
+          - generic [ref=f3e571]: Help us improve by sharing your feedback.
+        - generic [ref=f3e572]:
+          - link "This page wasn't helpful" [ref=f3e573] [cursor=pointer]:
+            - /url: "#"
+          - link "This page was helpful" [ref=f3e578] [cursor=pointer]:
+            - /url: "#"
+  - link "Feedback" [ref=f3e584] [cursor=pointer]:
+    - /url: "#"
+  - contentinfo [ref=f3e588]:
+    - generic [ref=f3e590]:
+      - combobox "Choose a language" [ref=f3e593]:
+        - option "Deutsch"
+        - option "English (Canada)"
+        - option "English (UK)" [selected]
+        - option "English (US)"
+        - option "Español (Colombia)"
+        - option "Español (España)"
+        - option "Español (México)"
+        - option "Français (Canada)"
+        - option "Français (France)"
+        - option "Italiano"
+        - option "Nederlands"
+        - option "Polski"
+        - option "Português (Brasil)"
+        - option "Svenska"
+        - option "Tiếng Việt"
+        - option "Türkçe"
+        - option "العربية"
+        - option "हिंदी"
+        - option "ไทย"
+        - option "简体中文"
+        - option "繁體中文"
+        - option "日本語"
+        - option "한국어"
+      - menu [ref=f3e594]:
+        - menuitem [ref=f3e595]:
+          - menu [ref=f3e596]:
+            - menuitem "Goals" [ref=f3e597]
+            - menuitem [ref=f3e598]:
+              - link "Build brand awareness" [ref=f3e599] [cursor=pointer]:
+                - /url: /en-gb/objectives/brand-awareness?ref_=a20m_us_fnav_obj_ba
+            - menuitem [ref=f3e600]:
+              - link "Reach more customers" [ref=f3e601] [cursor=pointer]:
+                - /url: /en-gb/objectives/reach-more-customers?ref_=a20m_us_fnav_obj_rch
+            - menuitem [ref=f3e602]:
+              - link "Increase traffic" [ref=f3e603] [cursor=pointer]:
+                - /url: /en-gb/objectives/increase-traffic?ref_=a20m_us_fnav_obj_trffc
+            - menuitem [ref=f3e604]:
+              - link "Increase sales and conversion" [ref=f3e605] [cursor=pointer]:
+                - /url: /en-gb/objectives/increase-sales?ref_=a20m_us_fnav_obj_sls
+            - menuitem [ref=f3e606]:
+              - link "Improve customer loyalty" [ref=f3e607] [cursor=pointer]:
+                - /url: /en-gb/objectives/customer-loyalty?ref_=a20m_us_fnav_obj_lylty
+            - menuitem [ref=f3e608]:
+              - link "Ad products and formats" [ref=f3e609] [cursor=pointer]:
+                - /url: /en-gb/products?ref_=a20m_us_fnav_p
+            - menuitem [ref=f3e610]:
+              - link "Sponsored ads" [ref=f3e611] [cursor=pointer]:
+                - /url: /en-gb/products/sponsored-ads?ref_=a20m_us_fnav_p_sa
+            - menuitem [ref=f3e612]:
+              - link "Sponsored Products" [ref=f3e613] [cursor=pointer]:
+                - /url: /en-gb/solutions/products/sponsored-products?ref_=a20m_us_fnav_p_sp
+            - menuitem [ref=f3e614]:
+              - link "Sponsored Brands" [ref=f3e615] [cursor=pointer]:
+                - /url: /en-gb/solutions/products/sponsored-brands?ref_=a20m_us_fnav_p_sb
+            - menuitem [ref=f3e616]:
+              - link "Display ads" [ref=f3e617] [cursor=pointer]:
+                - /url: /en-gb/products/display-ads?ref_=a20m_us_fnav_p_da
+            - menuitem [ref=f3e618]:
+              - link "Video ads" [ref=f3e619] [cursor=pointer]:
+                - /url: /en-gb/solutions/products/video-ads?ref_=a20m_us_fnav_p_va
+            - menuitem [ref=f3e620]:
+              - link "Audio ads" [ref=f3e621] [cursor=pointer]:
+                - /url: /en-gb/solutions/products/audio-ads?ref_=a20m_us_fnav_p_aa
+            - menuitem [ref=f3e622]:
+              - link "Out-of-home ads" [ref=f3e623] [cursor=pointer]:
+                - /url: /en-gb/solutions/products/out-of-home?ref_=a20m_us_fnav_p_ooh
+            - menuitem [ref=f3e624]:
+              - link "View all" [ref=f3e625] [cursor=pointer]:
+                - /url: /en-gb/products?ref_=a20m_us_fnav_p_all
+        - menuitem [ref=f3e626]:
+          - menu [ref=f3e627]:
+            - menuitem [ref=f3e628]:
+              - link "Insights and planning" [ref=f3e629] [cursor=pointer]:
+                - /url: /en-gb/insights-and-planning?ref_=a20m_us_fnav_p_ip
+            - menuitem [ref=f3e630]:
+              - link "Audience insights" [ref=f3e631] [cursor=pointer]:
+                - /url: /en-gb/insights-and-planning/audiences?ref_=a20m_us_fnav_p_ip_aud
+            - menuitem [ref=f3e632]:
+              - link "Media planning" [ref=f3e633] [cursor=pointer]:
+                - /url: /en-gb/insights-and-planning/media-planning?ref_=a20m_us_fnav_p_ip_mp
+            - menuitem [ref=f3e634]:
+              - link "Creative solutions" [ref=f3e635] [cursor=pointer]:
+                - /url: /en-gb/creative-solutions?ref_=a20m_us_fnav_p_crtv
+            - menuitem [ref=f3e636]:
+              - link "Creative enhancements" [ref=f3e637] [cursor=pointer]:
+                - /url: /en-gb/creative-solutions/enhancements?ref_=a20m_us_fnav_p_crtv_enh
+            - menuitem [ref=f3e638]:
+              - link "Creative services" [ref=f3e639] [cursor=pointer]:
+                - /url: /en-gb/creative-solutions/services?ref_=a20m_us_fnav_p_crtv_serv
+            - menuitem [ref=f3e640]:
+              - link "Creative tools" [ref=f3e641] [cursor=pointer]:
+                - /url: /en-gb/creative-solutions/tools?ref_=a20m_us_fnav_p_crtv_tls
+            - menuitem [ref=f3e642]:
+              - link "Measurement and analytics" [ref=f3e643] [cursor=pointer]:
+                - /url: /en-gb/measurement-analytics?ref_=a20m_us_fnav_p_mea
+            - menuitem [ref=f3e644]:
+              - link "Amazon Brand Lift" [ref=f3e645] [cursor=pointer]:
+                - /url: /en-gb/measurement-analytics/brand-lift?ref_=a20m_us_fnav_p_mea_bl
+            - menuitem [ref=f3e646]:
+              - link "Amazon Marketing Stream" [ref=f3e647] [cursor=pointer]:
+                - /url: /en-gb/solutions/products/amazon-marketing-stream?ref_=a20m_us_fnav_p_mea_ams
+            - menuitem [ref=f3e648]:
+              - link "Campaign reporting" [ref=f3e649] [cursor=pointer]:
+                - /url: /en-gb/measurement-analytics/campaign-reporting?ref_=a20m_us_fnav_p_mea_cr
+            - menuitem [ref=f3e650]:
+              - link "Omnichannel Metrics" [ref=f3e651] [cursor=pointer]:
+                - /url: /en-gb/measurement-analytics/omnichannel-metrics?ref_=a20m_us_fnav_p_mea_ocm
+            - menuitem [ref=f3e652]:
+              - link "Rapid retail analytics" [ref=f3e653] [cursor=pointer]:
+                - /url: /en-gb/measurement-analytics/rapid-retail-analytics?ref_=a20m_us_fnav_p_mea_rra
+            - menuitem [ref=f3e654]:
+              - link "Technology and services" [ref=f3e655] [cursor=pointer]:
+                - /url: /en-gb/adtech-solutions?ref_=a20m_us_fnav_p_tech
+            - menuitem [ref=f3e656]:
+              - link "Amazon DSP" [ref=f3e657] [cursor=pointer]:
+                - /url: /en-gb/solutions/products/amazon-dsp?ref_=a20m_us_fnav_p_tech_dsp
+            - menuitem [ref=f3e658]:
+              - link "Amazon Marketing Cloud" [ref=f3e659] [cursor=pointer]:
+                - /url: /en-gb/solutions/products/amazon-marketing-cloud?ref_=a20m_us_fnav_p_tech_amc
+            - menuitem [ref=f3e660]:
+              - link "Amazon Ads API" [ref=f3e661] [cursor=pointer]:
+                - /url: /en-gb/about-api?ref_=a20m_us_fnav_p_tech_api
+            - menuitem [ref=f3e662]:
+              - link "Amazon Publisher Services" [ref=f3e663] [cursor=pointer]:
+                - /url: https://aps.amazon.com/?ref_=a20m_us_fnav_p_tech_aps
+            - menuitem [ref=f3e664]:
+              - link "Amazon Retail Ad Service" [ref=f3e665] [cursor=pointer]:
+                - /url: /en-gb/retail-ad-service?ref_=a20m_us_fnav_p_tech_ras
+            - menuitem [ref=f3e666]:
+              - link "New Product Campaigns" [ref=f3e667] [cursor=pointer]:
+                - /url: /en-gb/solutions/products/new-product-campaigns?ref_=a20m_us_fnav_p_tech_npc
+            - menuitem [ref=f3e668]:
+              - link "Ads Agent" [ref=f3e669] [cursor=pointer]:
+                - /url: /en-gb/solutions/products/ads-agent?ref_=a20m_us_fnav_p_tech_adagt
+        - menuitem [ref=f3e670]:
+          - menu [ref=f3e671]:
+            - menuitem [ref=f3e672]:
+              - link "Industries" [ref=f3e673] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries?ref_=a20m_us_fnav_ind
+            - menuitem [ref=f3e674]:
+              - link "Automotive" [ref=f3e675] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/automotive-marketing?ref_=a20m_us_fnav_ind_auto
+            - menuitem [ref=f3e676]:
+              - link "Beauty" [ref=f3e677] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/beauty?ref_=a20m_us_fnav_ind_bty
+            - menuitem [ref=f3e678]:
+              - link "Consumer electronics" [ref=f3e679] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/consumer-electronics?ref_=a20m_us_fnav_ind_elc
+            - menuitem [ref=f3e680]:
+              - link "Entertainment" [ref=f3e681] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/entertainment?ref_=a20m_us_fnav_ind_etnm
+            - menuitem [ref=f3e682]:
+              - link "Fashion" [ref=f3e683] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/fashion-marketing?ref_=a20m_us_fnav_ind_fshn
+            - menuitem [ref=f3e684]:
+              - link "Financial services" [ref=f3e685] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/financial-services-marketing?ref_=a20m_us_fnav_ind_finsrv
+            - menuitem [ref=f3e686]:
+              - link "Grocery" [ref=f3e687] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/grocery-marketing?ref_=a20m_us_fnav_ind_grcry
+            - menuitem [ref=f3e688]:
+              - link "Health and personal care" [ref=f3e689] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/health-and-personal-care-marketing?ref_=a20m_us_fnav_ind_hpc
+            - menuitem [ref=f3e690]:
+              - link "Home goods and furniture" [ref=f3e691] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/furniture-marketing?ref_=a20m_us_fnav_ind_furn
+            - menuitem [ref=f3e692]:
+              - link "Home improvement" [ref=f3e693] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/home-improvement-marketing?ref_=a20m_us_fnav_ind_hmimprv
+            - menuitem [ref=f3e694]:
+              - link "Publishing" [ref=f3e695] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/book-ads?ref_=a20m_us_fnav_ind_pblshng
+            - menuitem [ref=f3e696]:
+              - link "Telecom" [ref=f3e697] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/telecom-marketing?ref_=a20m_us_fnav_ind_telecom
+            - menuitem [ref=f3e698]:
+              - link "Toys and games" [ref=f3e699] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/toys-and-games-marketing?ref_=a20m_us_fnav_ind_tys
+            - menuitem [ref=f3e700]:
+              - link "Travel" [ref=f3e701] [cursor=pointer]:
+                - /url: /en-gb/solutions/industries/travel-marketing?ref_=a20m_us_fnav_ind_trvl
+            - menuitem [ref=f3e702]:
+              - link "Channels" [ref=f3e703] [cursor=pointer]:
+                - /url: /en-gb/channels?ref_=a20m_us_fnav_p_chn
+        - menuitem [ref=f3e704]:
+          - menu [ref=f3e705]:
+            - menuitem "Learn" [ref=f3e706]
+            - menuitem [ref=f3e707]:
+              - link "Amazon Ads Academy" [ref=f3e708] [cursor=pointer]:
+                - /url: https://advertising.amazon.com/academy?ref_=a20m_us_fnav_aaa
+            - menuitem [ref=f3e709]:
+              - link "Product announcements" [ref=f3e710] [cursor=pointer]:
+                - /url: /en-gb/resources/whats-new?ref_=a20m_us_fnav_wn
+            - menuitem [ref=f3e711]:
+              - link "Resources" [ref=f3e712] [cursor=pointer]:
+                - /url: /en-gb/resources/library?ref_=a20m_us_fnav_rs
+            - menuitem [ref=f3e713]:
+              - link "Ad specs and policies" [ref=f3e714] [cursor=pointer]:
+                - /url: /en-gb/resources/ad-specs?ref_=a20m_us_fnav_spcs
+            - menuitem [ref=f3e715]:
+              - link "FAQ" [ref=f3e716] [cursor=pointer]:
+                - /url: /en-gb/resources/faq?ref_=a20m_us_fnav_faq
+            - menuitem [ref=f3e717]:
+              - link "News and announcements" [ref=f3e718] [cursor=pointer]:
+                - /url: /en-gb/library/newsroom?ref_=a20m_us_fnav_nrm
+            - menuitem "Partners" [ref=f3e719]
+            - menuitem [ref=f3e720]:
+              - link "Find a partner" [ref=f3e721] [cursor=pointer]:
+                - /url: /en-gb/partners/directory?ref_=a20m_us_fnav_prtdrct
+            - menuitem [ref=f3e722]:
+              - link "Become a partner" [ref=f3e723] [cursor=pointer]:
+                - /url: /en-gb/partners/network?ref_=a20m_us_fnav_prtnet
+      - generic [ref=f3e724]:
+        - generic [ref=f3e725]:
+          - link "About us|" [ref=f3e726] [cursor=pointer]:
+            - /url: /about-us?ref_=a20m_us_fnav_abtus
+          - link "Conditions of Use & Sale|" [ref=f3e727] [cursor=pointer]:
+            - /url: /legal/conditions?ref_=a20m_us_fnav_l_cndtns
+          - link "Privacy Notice|" [ref=f3e728] [cursor=pointer]:
+            - /url: /legal/privacy-notice?ref_=a20m_us_fnav_l_prvcy
+          - link "Interest-based ads|" [ref=f3e729] [cursor=pointer]:
+            - /url: /legal/interest-based-ads?ref_=a20m_us_fnav_l_intrst
+          - link "Cookie Notice|" [ref=f3e730] [cursor=pointer]:
+            - /url: /legal/cookie-notice?ref_=a20m_us_fnav_l_cook
+          - link "Amazon Ads Status|" [ref=f3e731] [cursor=pointer]:
+            - /url: https://status.ads.amazon.com?ref_=a20m_us_fnav_status
+          - link "Careers" [ref=f3e732] [cursor=pointer]:
+            - /url: /careers?ref_=a20m_us_fnav_l_cars
+        - list [ref=f3e734]:
+          - listitem [ref=f3e735]:
+            - link "LinkedIn" [ref=f3e736] [cursor=pointer]:
+              - /url: https://www.linkedin.com/showcase/amazonadvertising/about/
+              - img "LinkedIn" [ref=f3e737]
+          - listitem [ref=f3e739]:
+            - link "twitter" [ref=f3e740] [cursor=pointer]:
+              - /url: https://twitter.com/AmazonAds/
+              - img "twitter" [ref=f3e741]
+          - listitem [ref=f3e743]:
+            - link "instagram" [ref=f3e744] [cursor=pointer]:
+              - /url: https://www.instagram.com/amazonads/
+              - img "instagram" [ref=f3e745]
+          - listitem [ref=f3e747]:
+            - link "youtube" [ref=f3e748] [cursor=pointer]:
+              - /url: https://www.youtube.com/amazonadvertising/
+              - img "youtube" [ref=f3e749]
+          - listitem [ref=f3e751]:
+            - link "facebook" [ref=f3e752] [cursor=pointer]:
+              - /url: https://www.facebook.com/AmazonAds/
+              - img "facebook" [ref=f3e753]
+      - generic [ref=f3e756]:
+        - link [ref=f3e758] [cursor=pointer]:
+          - /url: /
+          - img "Amazon Ads logo" [ref=f3e759]
+        - generic [ref=f3e760]: © Copyright 2015–2026, Amazon

@@ -9,6 +9,10 @@ sources:
     official: true
     first_seen: 2026-07-14
     last_confirmed: 2026-07-14
+  - url: https://advertising.amazon.com/en-gb/products/display-ads
+    official: true
+    first_seen: 2026-07-15
+    last_confirmed: 2026-07-15
 confidence: medium
 ---
 
@@ -33,6 +37,17 @@ Impressions are a foundational metric for understanding:
 
 While impressions show ad delivery volume, they should be analyzed alongside engagement metrics like [CTR](/metrics/ctr.md), clicks, and conversions to understand campaign effectiveness. High impressions with low engagement may indicate targeting or creative optimization opportunities.
 
+## Display Ads Case Studies
+
+Display advertising campaigns have demonstrated significant impressions performance improvements through optimization:
+
+**Pro Sports Team**: Display ads optimization resulted in a **7 times increase in impressions** and a 70% improvement in click-through rate three weeks post-optimization.
+
+**Thule Urban Glide 2 Stroller**: A two-month display ads with video test resulted in a **299% increase in average monthly glance views** compared to the previous two-month period.
+
+These case studies demonstrate how display ad optimization can dramatically improve impressions performance and visibility, particularly when incorporating video creative and strategic targeting adjustments.
+
 # Citations
 
 - [Amazon Ads Basics of Success](https://advertising.amazon.com/library/guides/basics-of-success-understanding-amazon-advertising) — official, last confirmed 2026-07-14
+- [Display Ads Overview](https://advertising.amazon.com/en-gb/products/display-ads) — official, last confirmed 2026-07-15
