@@ -1,0 +1,3 @@
+# Amazon Ads Advanced Tools Docs
+Official repository for Amazon Ads API advanced integrations and scripts.
+Includes Python, Java, and Node samples.

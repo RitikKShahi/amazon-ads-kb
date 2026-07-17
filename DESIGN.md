@@ -141,23 +141,26 @@ This scans all 13 concept files for cross-file semantic duplicates. At threshold
 
 ## Final Output: The Knowledge Base
 
-4 web sources were processed into a knowledge base containing **13 OKF v0.1 concept files** across 3 taxonomy categories, totaling **315 content claims**.
+6 sources of varying types (Web, GitHub, PDF) were processed into a knowledge base containing **15 OKF v0.1 concept files** across 4 taxonomy categories, totaling **322 content claims**.
 
 | Category | Concepts | Claims |
 |:---|:---|---:|
 | `ad-products/` | device-ads, display-ads, dsp, platform-unification, sponsored-display, sponsored-products | 233 |
-| `apis/` | access-and-auth, ads-api, documentation, testing | 44 |
+| `apis/` | access-and-auth, ads-api, advanced-tools, documentation, testing | 48 |
 | `metrics/` | acos, roas, tacos | 38 |
-| **Total** | **13 concepts** | **315** |
+| `strategy/` | holiday-2026 | 3 |
+| **Total** | **15 concepts** | **322** |
 
 ### Sources
 
 | Source URL | Type | Strategy |
 |:---|:---|:---|
-| `advertising.amazon.com/about-api` | API Docs | Tavily (Static) |
-| `advertising.amazon.com/en-gb/products/display-ads` | Product Page | Playwright (Dynamic) |
-| `advertising.amazon.com/solutions/products/amazon-dsp` | Product Page | Playwright (Dynamic) |
-| `helium10.com/blog/what-is-amazon-tacos` | Blog Post | Tavily (Static) |
+| `advertising.amazon.com/about-api` | Web (API Docs) | Tavily (Static) |
+| `advertising.amazon.com/en-gb/products/display-ads` | Web (Product) | Playwright (Dynamic) |
+| `advertising.amazon.com/solutions/products/amazon-dsp` | Web (Product) | Playwright (Dynamic) |
+| `helium10.com/blog/what-is-amazon-tacos` | Web (Blog) | Tavily (Static) |
+| `github.com/amzn/ads-advanced-tools-docs` | GitHub Repo | Tavily (Markdown) |
+| `local/docs/amazon-ads-holiday-2026.pdf` | PDF Document | local markitdown |
 
 ---
 
@@ -165,4 +168,3 @@ This scans all 13 concept files for cross-file semantic duplicates. At threshold
 
 - **Cross-file duplicates exist.** The integrity scanner finds ~10 semantic overlaps at threshold 0.65 (e.g. "Cost-Per-Click" appearing in both `display-ads.md` and `sponsored-display.md`). These are conceptual overlaps in Amazon's own documentation, not bugs in the merger — but a production system would need a consolidation pass.
 - **Orchestrator is LLM-driven.** The `/update` slash command drives the pipeline, but the sequencing still relies on Claude Code's judgment. A hardcoded `orchestrator.js` script would be more deterministic.
-- **Source diversity is limited.** All 4 sources are web pages. Adding a GitHub repo or PDF source would stress-test the pipeline's generality.

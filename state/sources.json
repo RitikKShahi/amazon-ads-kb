@@ -30,5 +30,17 @@
     "first_seen": "2026-07-15T05:15:07.080Z",
     "last_fetched": "2026-07-15T14:00:17.520Z",
     "last_changed": "2026-07-15T14:00:17.520Z"
+  },
+  "https://github.com/amzn/ads-advanced-tools-docs": {
+    "last_hash": "2afbba5a6f2bd6ff71e40eb619ed1d0335e236e4f3a76b7bd4ebc4538e1b6973",
+    "type": "github_repo",
+    "official": true,
+    "last_checked": "2026-07-17T17:49:05.441Z"
+  },
+  "file://local/docs/amazon-ads-holiday-2026.pdf": {
+    "last_hash": "d7ce87fc1535497bd593539dc3909793132de3fbefee7d93d5de31ce26017b2b",
+    "type": "pdf_document",
+    "official": true,
+    "last_checked": "2026-07-17T17:49:05.441Z"
   }
 }
