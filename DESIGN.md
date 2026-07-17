@@ -141,15 +141,14 @@ This scans all 13 concept files for cross-file semantic duplicates. At threshold
 
 ## Final Output: The Knowledge Base
 
-6 sources of varying types (Web, GitHub, PDF) were processed into a knowledge base containing **15 OKF v0.1 concept files** across 4 taxonomy categories, totaling **322 content claims**.
+5 sources of varying types (Web, GitHub) were processed into a knowledge base containing **14 OKF v0.1 concept files** across 3 taxonomy categories, totaling **319 content claims**.
 
 | Category | Concepts | Claims |
 |:---|:---|---:|
 | `ad-products/` | device-ads, display-ads, dsp, platform-unification, sponsored-display, sponsored-products | 233 |
 | `apis/` | access-and-auth, ads-api, advanced-tools, documentation, testing | 48 |
 | `metrics/` | acos, roas, tacos | 38 |
-| `strategy/` | holiday-2026 | 3 |
-| **Total** | **15 concepts** | **322** |
+| **Total** | **14 concepts** | **319** |
 
 ### Sources
 
@@ -160,7 +159,6 @@ This scans all 13 concept files for cross-file semantic duplicates. At threshold
 | `advertising.amazon.com/solutions/products/amazon-dsp` | Web (Product) | Playwright (Dynamic) |
 | `helium10.com/blog/what-is-amazon-tacos` | Web (Blog) | Tavily (Static) |
 | `github.com/amzn/ads-advanced-tools-docs` | GitHub Repo | Tavily (Markdown) |
-| `local/docs/amazon-ads-holiday-2026.pdf` | PDF Document | local markitdown |
 
 ---
 

@@ -36,11 +36,5 @@
     "type": "github_repo",
     "official": true,
     "last_checked": "2026-07-17T17:49:05.441Z"
-  },
-  "file://local/docs/amazon-ads-holiday-2026.pdf": {
-    "last_hash": "d7ce87fc1535497bd593539dc3909793132de3fbefee7d93d5de31ce26017b2b",
-    "type": "pdf_document",
-    "official": true,
-    "last_checked": "2026-07-17T17:49:05.441Z"
   }
 }
